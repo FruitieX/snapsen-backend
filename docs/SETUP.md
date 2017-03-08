@@ -14,7 +14,7 @@ Look up instructions for your specific OS/distribution.
 ## Initialize DB
 ```
 $ psql --user postgres
-  CREATE DATABASE backendkit;
+  CREATE DATABASE snapsen;
   \q
 
 $ yarn db:migrate
