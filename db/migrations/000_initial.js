@@ -8,6 +8,17 @@ exports.up = knex => (
       table.text('description');
       table.binary('image');
     })
+    .createTableIfNotExists('books', (table) => {
+      table.increments('id').primary();
+      table.text('title').notNullable();
+    })
+    .createTableIfNotExists('songs', (table) => {
+      table.increments('id').primary();
+      table.text('title').notNullable();
+      table.text('lyrics').notNullable();
+      table.integer('bookId').references('id').inTable('books');
+      table.integer('page');
+    })
 );
 
 exports.down = knex => (

@@ -10,6 +10,17 @@ fixtureFactory.register('user', {
   scope: 'user',
 });
 
+fixtureFactory.register('book', {
+  title: 'TF:s Sångbok',
+});
+
+fixtureFactory.register('song', {
+  title: 'lorem.words',
+  lyrics: 'lorem.paragraphs',
+  bookId: 1,
+  page: 'random.number',
+});
+
 // Generate one test admin user
 const testUser = Object.assign({}, fixtureFactory.generateOne('user'), {
   email: 'foo@bar.com',
@@ -21,5 +32,11 @@ exports.seed = knex => (
     .insert(testUser)
     .then(() => (
       knex.batchInsert('users', fixtureFactory.generate('user', 10))
+    ))
+    .then(() => (
+      knex.batchInsert('books', fixtureFactory.generate('book', 1))
+    ))
+    .then(() => (
+      knex.batchInsert('songs', fixtureFactory.generate('song', 50))
     ))
 );
