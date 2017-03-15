@@ -18,6 +18,14 @@ const validateSongId = {
   },
 };
 
+const validateSongFilter = {
+  validate: {
+    query: {
+      filter: Joi.string(),
+    },
+  },
+};
+
 const songs = [
   // Get a list of all songs
   {
@@ -30,7 +38,7 @@ const songs = [
   {
     method: 'GET',
     path: '/songs/{songId}',
-    config: validateSongId,
+    config: merge({}, validateSongId, validateSongFilter),
     handler: getSong,
   },
 

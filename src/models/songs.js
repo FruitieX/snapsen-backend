@@ -3,9 +3,10 @@ import knex from '../utils/db';
 const songSummaryFields = ['id', 'title'];
 const songDetailedFields = ['id', 'title', 'lyrics', 'bookId', 'page'];
 
-export const dbGetSongs = () => (
+export const dbGetSongs = filter => (
   knex('songs')
     .select(songSummaryFields)
+    .whereRaw(filter ? "LOWER(title) LIKE '%' || LOWER(?) || '%'" : '', filter)
 );
 
 export const dbGetSong = id => (
