@@ -1,5 +1,3 @@
-import Boom from 'boom';
-
 import {
   dbGetSongs,
   dbGetSong,

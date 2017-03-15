@@ -24,7 +24,7 @@
     "register:admin": "babel-node register_admin.js",
     "lint": "eslint src/",
     "lint:fix": "eslint --fix src/",
-    "test": "jest",
+    "test": "jest && npm run lint",
     "test:watch": "jest --watch",
     "db:init": "babel-node node_modules/.bin/knex migrate:latest",
     "db:seed": "babel-node node_modules/.bin/knex seed:run",
