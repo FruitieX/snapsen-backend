@@ -11,6 +11,7 @@ exports.up = knex => (
     .createTableIfNotExists('books', (table) => {
       table.increments('id').primary();
       table.text('title').notNullable();
+      table.text('imageUrl');
     })
     .createTableIfNotExists('songs', (table) => {
       table.increments('id').primary();

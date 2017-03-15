@@ -12,12 +12,12 @@ fixtureFactory.register('user', {
 
 fixtureFactory.register('book', {
   title: 'TF:s Sångbok',
+  imageUrl: 'http://karspexet.teknolog.fi/static/images/tf_logo.png',
 });
 
 fixtureFactory.register('song', {
   title: 'lorem.words',
   lyrics: 'lorem.paragraphs',
-  bookId: 1,
   page: 'random.number',
 });
 

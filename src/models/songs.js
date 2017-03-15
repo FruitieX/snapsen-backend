@@ -6,6 +6,7 @@ const songSummaryFields = [
   'songs.bookId',
   'songs.page',
   'books.title as bookName',
+  'books.imageUrl',
 ];
 
 const songDetailedFields = [
@@ -15,6 +16,7 @@ const songDetailedFields = [
   'songs.bookId',
   'songs.page',
   'books.title as bookName',
+  'books.imageUrl',
 ];
 
 export const dbGetSongs = (filter) => {
