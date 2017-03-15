@@ -30,6 +30,7 @@ const songs = [
   {
     method: 'GET',
     path: '/songs/{songId}',
+    config: validateSongId,
     handler: getSong,
   },
 
