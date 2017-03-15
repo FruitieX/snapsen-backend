@@ -1,7 +1,19 @@
 import knex from '../utils/db';
 
-const songSummaryFields = ['id', 'title'];
-const songDetailedFields = ['id', 'title', 'lyrics', 'bookId', 'page'];
+const songSummaryFields = [
+  'songs.id',
+  'songs.title',
+  'songs.bookId',
+  'songs.page',
+];
+
+const songDetailedFields = [
+  'songs.id',
+  'songs.title',
+  'songs.lyrics',
+  'songs.bookId',
+  'songs.page',
+];
 
 export const dbGetSongs = (filter) => {
   let q = knex('songs')
