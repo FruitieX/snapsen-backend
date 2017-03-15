@@ -5,6 +5,7 @@ const songSummaryFields = [
   'songs.title',
   'songs.bookId',
   'songs.page',
+  'books.title as bookName',
 ];
 
 const songDetailedFields = [
@@ -13,11 +14,13 @@ const songDetailedFields = [
   'songs.lyrics',
   'songs.bookId',
   'songs.page',
+  'books.title as bookName',
 ];
 
 export const dbGetSongs = (filter) => {
   let q = knex('songs')
-    .select(songSummaryFields);
+    .select(songSummaryFields)
+    .leftJoin('books', 'songs.bookId', 'books.id');
 
   if (filter) {
     q = q.whereRaw("LOWER(title) LIKE '%' || LOWER(?) || '%'", filter);
@@ -29,7 +32,8 @@ export const dbGetSongs = (filter) => {
 export const dbGetSong = id => (
   knex('songs')
     .first(songDetailedFields)
-    .where({ id })
+    .where('songs.id', id)
+    .leftJoin('books', 'songs.bookId', 'books.id')
 );
 
 export const dbUpdateSong = (id, fields) => (
@@ -47,6 +51,5 @@ export const dbDelSong = id => (
 export const dbCreateSong = fields => (
   knex('songs')
     .insert(fields)
-    .returning(songDetailedFields)
-    .then(results => results[0]) // return only first result
+    .then(results => dbGetSong(results[0].id))
 );
