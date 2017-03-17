@@ -12,6 +12,9 @@ const COMMON_ENV = {
     tableName: 'knex_migrations',
     directory: 'db/migrations',
   },
+  seeds: {
+    directory: 'db/seeds',
+  },
 };
 
 // Feel free to create any number of other environments.
@@ -21,17 +24,10 @@ module.exports = {
   development: {
     ...COMMON_ENV,
 
-    seeds: {
-      directory: 'db/seeds-dev',
-    },
   },
 
   // Production environment
   production: {
     ...COMMON_ENV,
-
-    seeds: {
-      directory: 'db/seeds-prod',
-    },
   },
 };
