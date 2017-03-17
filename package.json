@@ -26,7 +26,7 @@
     "lint:fix": "eslint --fix src/",
     "test": "jest && npm run lint",
     "test:watch": "jest --watch",
-    "db:init": "babel-node node_modules/.bin/knex migrate:latest",
+    "db:init": "npm run db:migrate && npm run db:seed",
     "db:seed": "babel-node node_modules/.bin/knex seed:run",
     "db:migrate": "babel-node node_modules/.bin/knex migrate:latest",
     "db:rollback": "babel-node node_modules/.bin/knex migrate:rollback"
