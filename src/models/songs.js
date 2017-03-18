@@ -3,6 +3,7 @@ import knex from '../utils/db';
 const songSummaryFields = [
   'songs.id',
   'songs.title',
+  'songs.type',
   'songs.bookId',
   'songs.page',
   'books.title as bookName',
@@ -12,7 +13,10 @@ const songSummaryFields = [
 const songDetailedFields = [
   'songs.id',
   'songs.title',
+  'songs.type',
   'songs.lyrics',
+  'songs.pre',
+  'songs.post',
   'songs.bookId',
   'songs.page',
   'books.title as bookName',
