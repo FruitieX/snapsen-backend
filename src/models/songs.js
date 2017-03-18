@@ -25,7 +25,7 @@ export const dbGetSongs = (filter) => {
     .leftJoin('books', 'songs.bookId', 'books.id');
 
   if (filter) {
-    q = q.whereRaw("LOWER(title) LIKE '%' || LOWER(?) || '%'", filter);
+    q = q.whereRaw("LOWER(songs.title) LIKE '%' || LOWER(?) || '%'", filter);
   }
 
   return q;
