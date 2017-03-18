@@ -10,13 +10,16 @@ exports.up = knex => (
     })
     .createTableIfNotExists('books', (table) => {
       table.increments('id').primary();
-      table.text('title').notNullable();
+      table.text('title').notNullable().unique();
       table.text('imageUrl');
     })
     .createTableIfNotExists('songs', (table) => {
       table.increments('id').primary();
       table.text('title').notNullable();
       table.text('lyrics').notNullable();
+      table.text('pre');
+      table.text('post');
+      table.text('type');
       table.integer('bookId').references('id').inTable('books');
       table.integer('page');
     })
