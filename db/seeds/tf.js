@@ -4,7 +4,8 @@ const fixtureFactory = require('fixture-factory');
 const book = {
   title: 'TF:s Nya Sångbok',
   imageUrl: 'https://fruitiex.org/files/tf_logo.png',
-}
+  primaryColor: '#b20839',
+};
 
 const categories = {
   3: 'Fosterländsk Sång',

@@ -8,6 +8,7 @@ const songSummaryFields = [
   'songs.page',
   'books.title as bookName',
   'books.imageUrl',
+  'books.primaryColor',
 ];
 
 const songDetailedFields = [
@@ -21,6 +22,7 @@ const songDetailedFields = [
   'songs.page',
   'books.title as bookName',
   'books.imageUrl',
+  'books.primaryColor',
 ];
 
 export const dbGetSongs = (filter) => {
