@@ -1,6 +1,6 @@
 [
   {
-    "id": 6,
+    "page": 2,
     "name": "Vårt land",
     "lyrics": "Vårt land, vårt land, vårt fosterland!\nLjud högt, o dyra ord!\n//: Ej lyfts en höjd mot himlens rand,\nej sänks en dal, ej sköljs en strand\nmer älskad än vår bygd i nord,\nän våra fäders jord. ://\n\nDin blomning sluten än i knopp,\nskall mogna ur sitt tvång;\n//: Se, ur vår kärlek skall gå opp\nditt ljus, din glans, din fröjd, ditt hopp\noch högre klinga skall en gång\nvår fosterländska sång. ://",
     "date_updated": "2015-03-30",
@@ -11,7 +11,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 7,
+    "page": 3,
     "name": "Modersmålets sång",
     "lyrics": "Hur härligt sången klingar\npå älskat modersmål!\nHan tröst i sorgen bringar,\nhan skärper sinnets stål!\nVi hört den sången ljuda\ni ljuvlig barndomstid,\noch en gång skall han bjuda\nåt oss i graven frid!\nDu sköna sång, vårt bästa arv\nfrån tidevarv till tidevarv\nljud högt, ljud fritt från strand till strand\ni tusen sjöars land!\n\nVad ädelt fädren tänkte,\nvad skönt de drömt en gång,\ndet allt de åt oss skänkte\ni modersmålets sång.\nHur våra öden randas,\nden sången är oss kär.\nVår själ i honom andas,\nvår rikedom han är!\nDu sköna sång, vårt bästa arv\nfrån tidevarv till tidevarv\nljud högt, ljud fritt från strand till strand\ni tusen sjöars land!",
     "date_updated": "2015-03-30",
@@ -22,7 +22,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 8,
+    "page": 4,
     "name": "Björneborgarnas marsch",
     "lyrics": "Söner av ett folk, som blött\nPå Narvas hed, på Polens sand,\npå Leipzigs slätter, Lützens kullar,\nÄn har Finlands kraft ej dött,\nÄn kan med oväns blod ett fält här färgas rött!\nBort, bort, vila, rast och fred!\nEn storm är lös, det ljungar eld\noch fältkanonens åska rullar;\nFramåt, framåt led vid led!\nPå tappre män se tappre fäders andar ned.\n//: Ädlaste mål\nOss lyser på vår bana;\nSkarpt är vårt stål\nOch blöda är vår vana.\nAlla, alla käckt framåt!\nHär är vår sekelgamla frihets sköna stråt. ://\n//: Lys högt, du segersälla fana,\nSliten av strider sen en grånad forntids dar,\nFram, fram, vårt ädla, härjade standar!\nÄn finns en flik med Finlands gamla färger kvar. ://\n\nAldrig skall vår fosterjord\nAv våldets makt ur oförblödda\nbataljoners armar ryckas;\nAldrig ljuda skall det ord,\nAtt Finlands folk förrått sin fria bygd i nord.\nFalla kan den tappre blott,\nEj rygga för en faras hot,\nej svika, böjas och förtryckas.\nFalla, sköna krigarlott,\nBliv vår, sen för en seger än vi kämpa fått!\n//: Vapen i hand\nOch käckt vår ovän nära!\nDö för vårt land\nÄr leva för vår ära.\nRastlöst fram från strid till strid,\nTy nu är stunden vår och nu är skördens tid! ://\n//: Glesnare leder vittne bära\nHärligt om mod och bragder, om vårt lands försvar.\nFram, fram, vårt ädla, trotsiga standar!\nOmkring dig än din trogna finska vakt du har. ://",
     "date_updated": "2015-03-30",
@@ -33,7 +33,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 9,
+    "page": 8,
     "name": "Gaudeamus igitur",
     "lyrics": "//: Gaudeamus igitur, Iuvenes dum sumus; ://\nPost iucundam iuventutem, Post molestam senectutem\n//: Nos habebit humus. ://\n\n//: Ubi sunt, qui ante nos In mundo fuere? ://\nVadite ad superos, Transite ad inferos,\n//: Ubi iam fuere. ://\n\n//: Vita nostra brevis est, Brevi finietur; ://\nVenit mors velociter, Rapit nos atrociter;\n//: Nemini parcetur. ://\n\n//: Vivat academia, Vivant professores, ://\nVivat membrum quod libet, Vivant membra quae libet;\n//: Semper sint in flore. ://\n\n//: Vivat et respublica Et qui illam regit, ://\nVivat nostra civitas, Maecenatum caritas,\n//: Quae nos hic protegit. ://\n\n//: Vivant omnes virgines, Faciles, formosae, ://\nVivant et mulieres, Tenerae, amabiles,\n//: Bonae, laboriosae. ://\n\n//: Pereat tristitia, Pereant osores, ://\nPereat diabolus Quivis antiburschius,\n//: Atque irrisores. ://",
     "date_updated": "2015-03-30",
@@ -44,7 +44,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 10,
+    "page": 9,
     "name": "Studentsång",
     "lyrics": "//: Sjungom studentens lyckliga dag\nlåtom oss fröjdas i ungdomens vår\nän klappar hjärtat med friska slag\noch den ljusnande framtid är vår. ://\n\n//: Inga stormar än i våra sinnen bo\nhoppet är vår vän och vi dess löften tro\nnär vi knyta förbund i den lund\ndär de härliga lagrarna gro\ndär de härliga lagrarna gro.\nHurra! ://",
     "date_updated": "2015-03-30",
@@ -55,7 +55,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 11,
+    "page": 10,
     "name": "O, gamla klang och jubeltid",
     "lyrics": "O, gamla klang och jubeltid,\nditt minne skall förbliva,\noch än åt livets bistra strid\nett rosigt skimmer giva.\nSnart tystnar allt vårt yra skämt,\nvår sång blir stum, vårt glam förstämt;\n//: o, jerum, jerum, jerum,\no, quae mutatio rerum! ://\n\nVar äro de som kunde allt,\nblott ej sin ära svika,\nsom voro män av äkta halt\noch världens herrar lika?\nDe drogo bort från vin och sång\ntill vardagslivets tråk och tvång;\n//: o, jerum, jerum, jerum,\no, quae mutatio rerum! ://\n<i>filosofer:</i>Den ene vetenskap och vett\nin i scholares mänger,\n<i>jurister:</i>den andre i sitt anlets svett\npå paragrafer vränger,\n<i>teologer:</i>en plåstrar själen som är skral,\n<i>medicinare:</i>en lappar hop dess trasiga fodral;\n//: o, jerum, jerum, jerum,\no, quae mutatio rerum! ://\n<i>väg- och vatten:</i>En tämjer forsens vilda fall,\n<i>fabrikare:</i>En annan ger oss papper,\n<i>maskin:</i>En idkar maskinistens kall\n<i>elektrotekniker:</i>En mästrar volt så tapper\n<i>arkit. och lantmät:</i>En ritar hus, en mäter mark\n<i>kemister:</i>En blandar till mixtur så stark\n//: o, jerum, jerum, jerum,\no, quae mutatio rerum! ://\n\nMen hjärtat i en sann student\nkan ingen tid förfrysa.\nDen glädjeeld, som där han tänt,\nhans hela liv skall lysa.\nDet gamla skalet brustit har,\nmen kärnan finnes frisk dock kvar,\n//: och vad han än må mista,\nden skall dock aldrig brista. ://\n\nSå sluten, bröder, fast vår krets\ntill glädjens värn och ära!\nTrots allt vi tryggt och väl tillfreds\nvår vänskap trohet svära.\nLyft bägarn högt och klinga, vän!\nDe gamla gudar leva än\n//: bland skålar och pokaler,\nbland skålar och pokaler! ://",
     "date_updated": "2015-03-30",
@@ -66,7 +66,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 12,
+    "page": 15,
     "name": "Polyteknikernas marsch",
     "lyrics": "1. Vi äro en släkt...\n\n2. Ej sudlat av blod är vårt fria banér,\n\nej härjat det hänger i trasor,\nej sorgligt åt kommande släkten det ger\nen bild utav mord och av fasor;\nmen högt vi det bära i ljus och i glans,\ndär står uti guldskrift vår ära,\natt ädlare frukter på jorden ej fanns\nän välstånd och arbete bära.\n\n3. Bred ut dig och blända du ädla standar\n\noch vittna om kraftiga söner,\natt ostraffat våldet den krona ej tar,\nsom dig uti solglans nu kröner.\nTy kring dig står samlad din trognaste vakt\nmed ljus uti håg och i sinnen.\nOch kunskap är välde och ljuset är makt,\nlångt mer än de skönaste minnen.\n\n4. Arbetaresöner, vår stolthet det är\n\natt adlas av arbetets möda,\nej ryktet vårt namn omkring lunderna bär,\nmen länder och stater vi stöda.\nI tysthet vi sträva, i tysthet vi dö,\nvårt arbete ensamt förbliver.\nDet står emot tidernas svallande sjö,\noch trösterik hugnad oss giver.",
     "date_updated": "2015-03-30",
@@ -77,7 +77,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 13,
+    "page": 16,
     "name": "Teknologvisan",
     "lyrics": "Här ska ni se ett schack\nsom aldrig tappar takt, faderalla.\nTeknologer vi äro allihop,\nmed vin och kvinnor vi stå på en förtrolig fot.\nMed tofs i mössan och sticka* i vår hand,\njobba vi flitigt\ndock helst uti ett vingårdsland.\nPå exkursioner och fester e’ vi med.\nTeolog e’ man ej\noch vi tacka vår lycka för de’.\n//: Var teknolog\nhan är en vingårdens man.\nVarhelst i staden man såg\nja där rantar han,\nfaderampampampampampam **\nLustgårdens frukt,\nden plockar han\nmed vana händer. ***\nKorta krikon, långa krikon,\ntjocka krikon, trånga krikon\nplockar han med lust\noch ett i sänder. ://\n<i>1 2 3</i>HEJ!",
     "date_updated": "2015-03-30",
@@ -88,7 +88,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 14,
+    "page": 18,
     "name": "Kemistvisan",
     "lyrics": "Bland tekniska ynglingar alla\nkemisten är kronan ändå\nty en gång, då världarna falla,\nhan tittar blott glättigt därpå.\n//: Ty destillation\noch sublimation\nger ragnarök, kropparnas konstitution. ://\n\nJag varit i olika länder,\njag sett båd’ Paris och Berlin.\nJag skålat vid Rhenflodens stränder\ni Pommerys välkända vin.\n//: Möblerat jag har\ntvå lyckliga dar\nhos turken, som aldrig på kärleken spar. ://\n\nNu bliver det tyst uti salen\nblott flaskor och Burken står kvar.\nNu tystna de glättiga talen\noch tömt blivit fröjdernas kar.\n//: I källaren blott\nsker än lite klott\nty det är ju alltid en källares lott. ://\n\nOch sen, när vi alla är döda,\ntrikalciumortofosfat,\noch slutat vår jordiska möda,\noch tömt blivit fröjdernas fat.\n//: Dock själen så fin\nhar kvar energin\ntack vare kinetiska gasteorin. ://",
     "date_updated": "2015-03-30",
@@ -99,7 +99,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 15,
+    "page": 19,
     "name": "Vi äro teknologer",
     "lyrics": "Vi äro teknologer,\nalls inga teologer,\nom natten geologer med droger.\nVi alla är noblessen,\nbåd’ Karlsson och von Essen,\noch kovan jämt till brännvinet förslår.\nMen krävas vi på hyran,\nvi slå ett slag på lyran,\noch hjälper inte det så får vi flytta;\nvi ta vår väckarklocka,\nvår tandborste,\nochbocka,\noch skubba sen till följande kvarter.\n\nMen nu ska vi ha trevligt,\nvi ska ta en sup helt sävligt,\noch inte skall vi smutsa ner lokalen.\nMen den, som tror på storken\nhan får inte öppna korken,\nutan bara dricka mjölk utur pokalen.\nFörresten sa ju prästen,\nman ska akta sig för jästen,\nför herrar som har puder och “parfumer”,\nty flaskan och flickan\när som brännvinet och hickan\när som fodret uti fickan är som du.",
     "date_updated": "2015-03-30",
@@ -110,7 +110,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 16,
+    "page": 20,
     "name": "Alla polytekare",
     "lyrics": "Alla polytekare i stan\ni alla apotekare och läkare gav fan.\nJa, fan de gav uti förbud och laglighet,\ndirekt från Stenberg togo de sin kvantitet.*\nMen den som ej har råd att vara fin,\nhan äter stekt potatis, dricker brännevin.",
     "date_updated": "2015-03-30",
@@ -121,7 +121,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 17,
+    "page": 20,
     "name": "Teekkarihymni",
     "lyrics": "Yö kuin sielu teekkarin* on pimiä\ntakajoukko nukkuu vain, nukkuu vain\ntarhapöllön ääni kimiä\nkuuluu pappilasta** päin, kuuluu päin\nja taas ja siis\nja 1 2 3 4 5",
     "date_updated": "2015-03-30",
@@ -132,7 +132,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 18,
+    "page": 21,
     "name": "Ikuisen teekkarin laulu",
     "lyrics": "Talvi-iltain tummentuessa\nPolin suojiin me saavumme taas.\n//: Meidät tekniikka jälkeen on jättänyt\nsen me tahdomme unhoittaa. ://\n\nUnelma vain on diplomityömme,\njoka tenttimme vanhentunut.\n//: Jo ruostunut harpikko käyttämätön,\ntushi pulloihin jähmennyt. ://\n\nAina teekkaripolvien uutten\nohi pöytämme käyvän nään.\n//: Mutta meillä ei voimaa enää kylliksi\nheidän joukkoonsa liittymään. ://\n\nViini laseissa ilkkuen päilyy,\nmeitä kutsuen kuohuillaan.\n//: Pois murheemme tahdomme karkoittaa,\näly pois, mitä maksoikaan. ://\n\nJa kun Integer Vitae meille\nkerran viimeisen lauletaan,\n//: Silloin ikuisen teekkarin haudalle\noluttynnöri nostetaan. ://",
     "date_updated": "2015-03-30",
@@ -143,7 +143,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 19,
+    "page": 25,
     "name": "En liten fågel",
     "lyrics": "En liten fågel satt en gång\noch sjöng i furuskog.\nHan hade sjungit dagen lång\nmen dock ej sjungit nog.\nOch strupen torkat vid hans gom\nförtröstan stämman bar.\nVad sjöng den lilla fågeln då?\nJO!",
     "date_updated": "2015-03-30",
@@ -154,7 +154,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 20,
+    "page": 25,
     "name": "Helan går",
     "lyrics": "Helan går,\nsjung hoppfaderallanlallanlej!\nHelan går,\nsjung hoppfaderallanlej.\nOch den som inte helan tar,\nhan ej heller halvan får.\nHelan går,\nsjung hoppfaderallanlej!",
     "date_updated": "2015-03-30",
@@ -165,7 +165,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 21,
+    "page": 27,
     "name": "Stridsrop. Halvan",
     "lyrics": "Hur länge skall på borden\nden lilla halvan stå?\nSkall snart ej höras orden:\n“Låt halvan gå, låt gå.”\nDet ärvda vikingssinne\ntill bägar’n trår igen,\noch helans trogna minne\ni halvan går igen.",
     "date_updated": "2015-03-30",
@@ -176,7 +176,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 22,
+    "page": 29,
     "name": "Finska halvan",
     "lyrics": "Hur länge skall på borden\nden lilla halvan stå?\nSkall snart ej höras orden:\n“Låt halvan gå, låt gå.”\nDet ärvda vikingasinne\ntill bägar’n trår igen,\n//:\n<i>solo:</i>Halvan går.\n<i>alla:</i>Halvan går.\n<i>solo:</i>Låt halvan gå!\n<i> alla:</i>Halvan går. ://\nSkål, gutår!",
     "date_updated": "2015-03-30",
@@ -187,7 +187,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 23,
+    "page": 29,
     "name": "Den sällskapssjuka halvan",
     "lyrics": "När fiskargubben satt på krog,\nmed vännerna och helan tog.\nDå sa’ dom: “Ta me’ samma en,\nmed tanke på ditt andra ben”.\n\nOch gubben tog då halvan sin\noch sade sen med häpen min:\n“Den jäkeln var en listig en,\nför tänk - den gick i samma ben”.",
     "date_updated": "2015-03-30",
@@ -198,7 +198,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 24,
+    "page": 31,
     "name": "Norges bäste",
     "lyrics": "Norges bäste, sild i papper,\nden har inga fjäll!\nSkönt den andra dagen,\nfröjdar gommen, magen.\nHar du flaskan oppe?\nTöm dess sista droppe!\nHalvan i dig häll!\nI dig halvan häll!",
     "date_updated": "2015-03-30",
@@ -209,7 +209,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 25,
+    "page": 32,
     "name": "Helan gick i vänstra foten",
     "lyrics": "Helan gick i vänstra foten,\nbomfaderia, faderaderalla\nGudskelov så vet jag boten,\nbomfaderi faderallanlej:\nHalvan ställer saken rätt,\nbomfaderi faderallanlej.\nHugg i! Och dra!\nPå nubbar blir man aldrig mätt,\nbomfaderi faderallanlej.",
     "date_updated": "2015-03-30",
@@ -220,7 +220,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 26,
+    "page": 32,
     "name": "Halvankaren",
     "lyrics": "Och än går det vågor i halvankaren,\ni halvankaren, i halvankaren.\nOch än går det vågor i halvankaren,\ni halvankaren går det vågor än.\nOch så rulla vi på kuttingen igen min vän,\ndet går vågor än uti halvankaren.\nOch så rulla vi på kuttingen igen min vän,\ndet går vågor än igen.",
     "date_updated": "2015-03-30",
@@ -231,7 +231,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 27,
+    "page": 33,
     "name": "Korta halvan",
     "lyrics": "Så länge helan vi få,\nvi vill ha halvan därpå,\nför att få fjärmas en stund\nifrån vardagen grå.\n\nFör tar man en tar man två,\nlåt själen dansa, låt gå.\nAv alla tretton vi kommit\nblott till nummer två.\n<i>solo I:</i>Vem har sagt,\natt just du\nspyr på värden?\n<i>solo II:\n</i>Jag önskar lycka\noch välgång\npå färden.\n\nFör tar man en...",
     "date_updated": "2015-03-30",
@@ -242,7 +242,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 28,
+    "page": 35,
     "name": "Tersen",
     "lyrics": "Ren helan slunkit ner\noch halvan tagen är,\nmen magen vill ha mer,\nmen magen vill ha mer,\nej släckt är dess begär.\nTill tersen nu den trår,\ntill tersen nu den trår.\nSå drickom, drickom, skål gutår.",
     "date_updated": "2015-03-30",
@@ -253,7 +253,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 29,
+    "page": 35,
     "name": "Fjärran han dröjer",
     "lyrics": "Fjärran han dröjer från törstiga strupar\nredan vi tagit två modiga supar.\nAck lilla tersen, ack lilla hjärtevännen,\nkommer du ej snart?\nJo, jag kommer strax.",
     "date_updated": "2015-03-30",
@@ -264,7 +264,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 30,
+    "page": 37,
     "name": "Burkens kvart",
     "lyrics": "//: Helan blev liten men halvan den blev stor,\nännu tersen bränner i strupen. ://\n\n//: Kvarten smeker, djävulen han leker\nbedrager både kropp och själ. ://",
     "date_updated": "2015-03-30",
@@ -275,7 +275,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 31,
+    "page": 38,
     "name": "Livet",
     "lyrics": "//: Livet är härligt\nTavaritj, vårt liv är härligt!\nVi alla våra små bekymmer glömmer\nnär vi har fått en tår på tand,\nen skål!\nTa dig en vodka\nTavaritj en liten vodka!\nGlasen i botten vi tillsammans tömmer\ndet kommer mera efter hand. ://\n\n— HEJ!",
     "date_updated": "2015-03-30",
@@ -286,7 +286,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 32,
+    "page": 39,
     "name": "Portos visa",
     "lyrics": "Jag vill börja gasqua, var faan är min flaska,\nvem i helvete stal min butelj.\nSkall törsten mig tvinga, en TT börja svinga,\nmen okej bara blunda och svälj.\nVilken smörja, får jag spörja,\nvem för fan tror att jag är en älg.\nTill England vi rider och sedan vad det lider,\nträffar vi välan på någon pub.\nOch där skall vi festa, blott dricka av det bästa\nutav whisky och portvin, jag tänker gå hårt in\nför att smaka på rubb och stubb.",
     "date_updated": "2015-03-30",
@@ -297,7 +297,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 33,
+    "page": 39,
     "name": "Oasen",
     "lyrics": "Som ökensand känns strupen ibland\noch man orkar inte bära hand.\nFy farao, ej rast eller ro,\nman blir nykter som en helig ko!\n//: Men till och med en mumie\nfår ryckningar i sarkofagen.\nDet spritter i kistan, när örat hör listan\npå supar som bjudes på vår gasque. ://\n\n— Hej, skål!",
     "date_updated": "2015-03-30",
@@ -308,7 +308,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 34,
+    "page": 40,
     "name": "Dom som är nyktra",
     "lyrics": "Dom som är nyktra\nhar inte så roligt.\nDom har bara ansvar\noch inte nå’t tjoli’t\nan-lej-faderulla,\nmen vi som är fulla\nvi har bara kul nästan jämnt.\n\nDet sägs att en mänska\nkan va’ utan brännvin.\nDet stämmer måhända,\nmen se blott på den min\nsom pryder en absolutist\nden é jävli’t trist,\ndärför så sjunger vi så:\n\nDom som är nyktra...",
     "date_updated": "2015-03-30",
@@ -319,7 +319,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 35,
+    "page": 40,
     "name": "Tänk om jag hade lilla nubben",
     "lyrics": "//: Tänk om jag hade lilla nubben\npå ett snöre i halsen ://\n\nJag skulle dra den upp och ner,\nså att den kändes som många fler.\nTänk om jag hade lilla nubben\npå ett snöre i halsen.",
     "date_updated": "2015-03-30",
@@ -330,7 +330,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 36,
+    "page": 41,
     "name": "Hur länge skall vi sitta här",
     "lyrics": "Hur länge skall vi sitta här med tomma glas,\nmed tomma glas,\nmed tomma glas?\nHur länge skall vi sitta här med tomma glas\npå detta jävla skitkalas?",
     "date_updated": "2015-03-30",
@@ -341,7 +341,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 37,
+    "page": 41,
     "name": "Till spritbolaget",
     "lyrics": "Till spritbolaget ränner jag\noch bankar på dess port.\nJag vill ha nå’t som bränner bra\noch gör mig skitfull fort.\nExpediten sade: Godda’\nHur gammal kan min herre va’?\nHar du nå’t leg, ditt fula drägg?\nKom hit igen när du fått skägg!\n\nNej, detta var ju inte bra,\njag ska bli full ikväll.\nDå plötsligt en idé fick jag:\ndom har ju sprit på Shell.\nMånga flaskor stod där på rad,\nså nu kan jag bli full och glad.\nDen röda drycken åkte ner...\nnu kan jag inte se nå’t mer!",
     "date_updated": "2015-03-30",
@@ -352,7 +352,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 38,
+    "page": 42,
     "name": "Metanol",
     "lyrics": "Metanol, metanol,\nen dryck för tuffa killar!\nMetanol, metanol,\nen dryck som blinda gillar!\nNär jag går med käppen sliten\nblir jag under spårvagnsskiten.\nMetanol, metanol,\ndu gamle, gode vän!",
     "date_updated": "2015-03-30",
@@ -363,7 +363,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 39,
+    "page": 42,
     "name": "Törsten rasar",
     "lyrics": "Törsten rasar uti våra strupar,\ntungan hänger torr och styv och stel.\nMen snart vankas stora, kalla supar,\nvar och en får sin beskärda del.\nSnapsen kommer, den vi vilja tömma,\ndenna nektar lik Olympens saft,\nkommer oss att våra sorger glömma.\nSnapsen skänker hälsa, liv och kraft.\n\nHelan tänder helig eld i själen,\nhalvan rosar livet som en sky.\nTersen känns från hjässan ner i hälen,\nkvarten gör oss till en människa ny.\nLåt oss skåla med varann, go’ vänner,\nskål för våran levnads glada lopp,\ntörstens eld på nytt i strupen bränner.\nLeve livet! Skål och botten opp!",
     "date_updated": "2015-03-30",
@@ -374,7 +374,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 40,
+    "page": 43,
     "name": "Rattataa",
     "lyrics": "Att dricka brännvin är en sed\nsom ingen har oss lärt.\nFrån början vi ej kunde,\nmen det var blott temporärt.\nVi lärde oss så småningom\nde’ var nog värt besvär’t.\nTitilurenbom tutidalen pang\nde’ var nog värt besvär’t.\n\n//: Rattataa så tar vi oss en tuting,\nrattataa med mycket brännvin i,\nrattataa ratatataa\ndricka brännvin gillar ja’\nför jag blir så full och gla’. ://",
     "date_updated": "2015-03-30",
@@ -385,7 +385,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 41,
+    "page": 43,
     "name": "Fordom O...",
     "lyrics": "Fordom odlade man vindruvsranka,\nav vars frukt man gjorde ädelt vin.\nNu man pressar saften ur en planka,\ndoftande av äkta terpentin.\nHöj din bägare, o broder, syster.\nLåt den finska skogen rinna kall\ngenom strupen och om du är dyster,\nlåt oss supa upp en liten tall,\nlåt oss supa upp en liten tall,\nlåt oss supa upp en liten granSKOG!",
     "date_updated": "2015-03-30",
@@ -396,7 +396,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 42,
+    "page": 44,
     "name": "Glädjetåren",
     "lyrics": "Helan, sköna Helan.\nLjuva droppar i en glädjetår.\nHelan, fegt att del’ an.\nDen ger styrka och du bättre mår.\nMen spriten, dödar långsamt har man spått.\nTur det, för vi har ju knappast brått.\nLivet, det är givet.\nDet skall levas fyllt av glädje.\nDet får ni medge:\nBäst är en glädjetår!",
     "date_updated": "2015-03-30",
@@ -407,7 +407,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 43,
+    "page": 44,
     "name": "Tänk om jag inte var så tråkig",
     "lyrics": "Tänk om jag inte var så tråkig,\ntänk om jag vore rolig.\nTänk om jag inte var så blyger,\ntänk om sommar’n var solig.\nOm blott jag vore mer spontan\noch dansa’ samba mest hela dan.\nInbunden, blyg och sammanbiten,\när man ju tacksam för spriten.",
     "date_updated": "2015-03-30",
@@ -418,7 +418,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 44,
+    "page": 45,
     "name": "Undulaten",
     "lyrics": "Jag är en liten undulat,\nsom får så dåligt med mat,\nför dom jag bor hos,\nför dom jag bor hos,\ndom är så snåla.\nDom ger mig fisk varenda dag,\ndet vill jag alls inte ha,\njag vill ha brännvin,\njag vill ha brännvin,\noch Coca-Cola.*\n\nJag är en stor och elak varg,\nsom är så helvetes arg,\nför uti skogen,\nför uti skogen,\nfinns bara plantor.\nJag äter gräs varenda dag,\ndet vill jag alls inte ha\njag vill ha småbarn,\njag vill ha småbarn,\noch gamla tantor.\n\nOch jag är gårdagssillen jag\nsom ligger här: goddag goddag\nför den jag bor hos,\nför den jag bor hos,\nmår lite illa.\nJag kommer opp såhär ibland\noch ser mig om lite grand.\nFast den jag bor hos,\nfast den jag bor hos,\nint’ skulle vilja...",
     "date_updated": "2015-03-30",
@@ -429,7 +429,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 45,
+    "page": 46,
     "name": "Ack va’gul",
     "lyrics": "Ack va’ gul solen skiner\nAck va’ blåsten den viner\nAck va’ gråtruten skriker\nAck va’ fint, ack va’ fint.\n\nAck va’ röd färgen stiger\nAck va’ grön grannen bliver\nAck va’ klar snapsen rinner\nAkvavitAkvavit.",
     "date_updated": "2015-03-30",
@@ -440,7 +440,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 46,
+    "page": 46,
     "name": "Till supen så tager man sill",
     "lyrics": "Till supen så tager man sill, sill, sill\nmen också ansjovis om man vill, vill, vill.\nOch om man är oviss, om sillen är ansjovis,\nså tar man bara några supar till, till, till.\nOch om man är oviss, om sillen är ansjovis,\nså tar man bara några supar till, fallera.",
     "date_updated": "2015-03-30",
@@ -451,7 +451,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 47,
+    "page": 47,
     "name": "Vodka, vodka",
     "lyrics": "Vodka, vodka vill jag dricka,\njag vill äta kaviar.\n//: Jag vill älska russkij flicka,\njag vill spy i samovar! ://\n\nKoskenkorva vill jag dricka,\nJag vill gå på kräftkalas.\n//: Jag vill älska Suomi-flicka,\njag vill spy i Aaltovas! ://",
     "date_updated": "2015-03-30",
@@ -462,7 +462,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 48,
+    "page": 47,
     "name": "Efter vodkan",
     "lyrics": "Efter vodkan torkar strupen,\njag mår inte riktigt bra!\n//: Ja, jag längtar efter supen\nsom min krabbis bort skall ta! ://\n\nPolytekare, dom dricka,\ntömma snapsglas sup i ett.\n//: Men vi skall inte vara snikna,\ntag en sup och sjung falsett! ://",
     "date_updated": "2015-03-30",
@@ -473,8 +473,8 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 49,
-    "name": "UppåTF",
+    "page": 48,
+    "name": "Uppå TF",
     "lyrics": "Uppå TF dricks ej vatten,\ndetta kan väl ingen tro,\nej ens mitt i mörka natten\nkan en sådan tanke gro.\n//: Nej, ty Koskis\när drycken som vi får.\nDärför fatta glaset i din hand\noch var med när helan går. ://",
     "date_updated": "2015-03-30",
     "category_id": 6,
@@ -484,7 +484,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 50,
+    "page": 48,
     "name": "Guldkrogen",
     "lyrics": "Ta dig en sup fast din plånbok bantar\nräkningen här går på feta slantar!\nSnaps 400.69\nPåfyllda snapsar 22.10\nGroggvirke 1003.19\nMera utbongat (fast utan kvitton)\nAvrundat 2502\nNågot att tänka på!\nSkål!",
     "date_updated": "2015-03-30",
@@ -495,7 +495,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 51,
+    "page": 49,
     "name": "Gäddan",
     "lyrics": "Uppå väggen går en gädda\nmed långa ludna svarta ben.\n//: Men vi skall inte vara rädda,\ntag en sup, och allt går väl. ://\n\nVita möss som går i taket,\nråma hest och falla ner.\n//: Men vi skall inte vara rädda,\ntag en sup, och allt går väl. ://",
     "date_updated": "2015-03-30",
@@ -506,7 +506,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 52,
+    "page": 49,
     "name": "Spiralen",
     "lyrics": "A-di-dojojojojong\njag är så lycklig jag.\nA-di-dojojojojong\ndet går varenda dag.",
     "date_updated": "2015-03-30",
@@ -517,7 +517,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 53,
+    "page": 49,
     "name": "Hej, vet ni vad",
     "lyrics": "Hej, vet ni va’, Tjorven å ja’.\nPerkele, kun on hauskaa!",
     "date_updated": "2015-03-30",
@@ -528,7 +528,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 54,
+    "page": 50,
     "name": "Imbelupet",
     "lyrics": "Imbelupet glaset står på bräcklig fot,\nkalla pilsnerflaskor luta sig därmot.\nMen därnere, miserere,\nuti magens avgrundsdjup,\nsitter djävulen och väntar på en sup.\n\n... uti magens välvda valv,\nvandrar djävulen och ropar på en Halv.\n\n... uti magen härs och tvärs,\nkilar djävulen och skriker på en Ters.\n\n... uti magens djup så svart\nlöper djävulen och skränar på en Qvart.\n\n... uti magens labyrint,\nirrar djävulen och tjoar på en Qvint.\n\n... uti magens slingerväxt,\nspringer djävulen och skriar på en Sext.\n\n... uti magen halvoppknäppt,\nrusar själva Fan och vrålar på en Sept.\n\n...uti magen an och av,\nvankar djävulen och väser på Oktav.",
     "date_updated": "2015-03-30",
@@ -539,7 +539,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 55,
+    "page": 51,
     "name": "Häva en hela",
     "lyrics": "Häva en hela,\nhäva en halva,\nhär flödar sprit ur välfyllda glas.\n\nSalva för själen,\nglömda blir felen,\nnektar för såväl kung som pajas.\n\n//: Inget kan stoppa oss,\nkom bröder kasta loss,\nsnapsen oss styrka ger,\nvi vill ha mer. ://\n\nFatta, fatta, fatta bägarn.\nLyft era glas, känn arktisk kyla.\nLyft era glas, hör vargar yla.\nLyft era glas, ni fylls av längtan.\nLyft era glas, gör slut på väntan.\nLyft era glas, töm era glas.\nLåt sedan gå i kras, HEJ!",
     "date_updated": "2015-03-30",
@@ -550,7 +550,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 56,
+    "page": 52,
     "name": "Jag har aldrig var’t på snusen",
     "lyrics": "Jag har aldrig var’t på snusen,\naldrig rökat en cigarr, halleluja!\nMina dygder äro tusen,\ninga syndiga laster jag har.\nJag har aldrig sett nå’t naket,\ninte ens ett nyfött barn, halleluja!\nMina blickar går mot taket,\ndärmed undgår jag frestarens garn.\nHalleluja...\n\nBacchus spelar på gitarren,\nSatan spelar på sitt handklaver.\nAlla djävlar dansar tango,\nsäg, vad kan man väl önska sig mer?\nJo, att alla bäckar vore brännvin,\nFinska viken fylld av Koffens öl,\nKoskis i varenda rännsten\noch punsch i varendaste pöl.\nHalleluja...",
     "date_updated": "2015-03-30",
@@ -561,7 +561,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 57,
+    "page": 53,
     "name": "Reymersholms",
     "lyrics": "Jag sitter här och smuttar på en Reymersholms,\nReymersholms, Reymersholms.\nJag sitter här och smuttar på en Reymersholms\noch stämningen den stiger alltjämt.\nSitt gärna nykter och sura,\neller drick helt utan broms.\nGenever eller Angostura,\njag, jag håller mej till Reymersholms.\n\nJag sitter här och smuttar på en Reymersholms,\nReymersholms, Reymersholms.\nJag sitter här och smuttar på en Reymersholms\noch stämningen den stiger alltjämt.",
     "date_updated": "2015-03-30",
@@ -572,7 +572,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 58,
+    "page": 53,
     "name": "En liten, liten, liten",
     "lyrics": "En liten, liten, liten, liten om morgnarna\nen liten, liten, liten, liten om middarna\nen liten, liten, liten, liten om kvällarna\nommorgnarna\nom middarna\nom kvällarna.",
     "date_updated": "2015-03-30",
@@ -583,7 +583,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 59,
+    "page": 54,
     "name": "I Finlands djupa skogar",
     "lyrics": "I Finlands djupa skogar\ndär får man supa gratis,\nbomfaderi,\ndär får man supa gratis.\nFast man blandat bark\ni både vete och potatis,\nbomfaderi faderallanlej.",
     "date_updated": "2015-03-30",
@@ -594,7 +594,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 60,
+    "page": 54,
     "name": "Alla tallarna",
     "lyrics": "Alla tallarna, alla tallarna,\nalla stora, alla små.\nAlla tallarna, alla tallarna\nska vi koka ’rännvin på.\nAlla tallarna, alla tallarna,\nifrån roten till dess topp.\nAlla tallarna, alla tallarna,\nska vi ta och ’ricka opp.\nSKÅL!",
     "date_updated": "2015-03-30",
@@ -605,7 +605,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 61,
+    "page": 55,
     "name": "Drinkaren på taket",
     "lyrics": "Om jag hade brännvin,\nRenat, Skåne, Aalborg, OP, Vinbär\noch en liten Bäsk.\nAllihopa ställda på en rad\nvad jag skulle vara glad.\n\nGlasen fylls med brännvin,\nRenat, Skåne, Aalborg, OP, Vinbär\noch en liten Bäsk.\nLivet leker, sinnet fylls med hopp.\nNu ska lilla nubben drickas opp.",
     "date_updated": "2015-03-30",
@@ -616,7 +616,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 62,
+    "page": 56,
     "name": "Så bistert kall",
     "lyrics": "Så bistert kall blåser nordanvinden\nkring stuguknuten den sena kväll.\nEn liten flicka, så blek om kinden,\nhon sitter lutad mot spiselns häll.\nDen bleka hyn och de tärda dragen\nde vittna tydligt om sjukdom, nöd.\n//: Ty hennes pappa har hela dagen\npå krogen glömt skaffa barnen bröd. ://",
     "date_updated": "2015-03-30",
@@ -627,7 +627,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 63,
+    "page": 56,
     "name": "Så ljuvligt varm",
     "lyrics": "Så ljuvligt varm blåser sunnanvinden\nigenom trädgår’n vid grevens slott.\nDen gamle greven, så fet om kinden,\nhan smörjer kråset med mat så flott.\nDen feta hyn och de närda dragen\nde vittna tydligt om överflöd.\n//: Ty dennes dotter har hela dagen\npå krogen skaffat sin fader bröd. ://",
     "date_updated": "2015-03-30",
@@ -638,7 +638,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 64,
+    "page": 57,
     "name": "Sibboborna",
     "lyrics": "Brännvini bränner och bultar och dunkar\nsibboborna huttar och klunkar\ntar sig en hela,\ntar sig en halva,\ntersen och kvarten och kvinten på.\nTar det på allvar,\nliksom ystra kalvar,\ntar sig en hela,\ntar sig en halva,\ntersen och kvarten och kvinten på.\n\nEn del har fråga’ och somliga undrar:\nKan man ta starkt när det blixtrar och dundrar?\nKan man ta helan,\nkan man ta halvan,\ntersen och kvarten och kvinten på.\nSvar till er alla:\nSkåla när det knallar!\nPang, där gick helan!\nPang, där gick halvan!\nTersen och kvarten och kvinten på.\n\nSågarna brummar och trädena strittar.\nSibboborna packar och flyttar,\nstadin tar helan,\nstadin tar halvan,\ntersen och kvarten och kvinten på!\nTar sig mot öster,\ntrots alla protester,\nhär kommer höghus,\nhär kommer Stockmann,\nmetron och spåran och spurgun på!",
     "date_updated": "2015-03-30",
@@ -649,7 +649,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 65,
+    "page": 59,
     "name": "Djupt i magen",
     "lyrics": "Djupt i magen under revbensspjällen,\nhelan vilar i djupan sal.\nGenom krävan snabb liksom gasellen\nhalvan ilar så skön och sval.\nSkälvande lik en till altar gången brud,\nhela kroppen väntar på det ljuva ljud,\nlikt en suck — genom skrovet går\n//: när lilla tersen till blindtarmen når! ://\n\nSjukt i magen efter gårdagskvällen,\nskallen lider de värsta kval,\nrummet snurrar runt likt karusellen,\nuti krävan finns berg och dal.\nRäddningen i flaska fort till läppen förs,\nhälls däri och genast kroppens lättnad hörs,\nlikt en suck — genom skrovet går\n//: när ägglikören till blindtarmen når! ://",
     "date_updated": "2015-03-30",
@@ -660,7 +660,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 66,
+    "page": 60,
     "name": "Fysikvisan",
     "lyrics": "Vill du ha fysiken fin\nskall du bara dricka brännevin.\nVill du ha din mage bra\nskall du dricka det varenda dag.\nVill du ha ett gott humör\nskall du dricka det uti ett kör.\nTy brännevin, ja brännevin\ndet gör din mage och fysiken fin.",
     "date_updated": "2015-03-30",
@@ -671,7 +671,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 67,
+    "page": 60,
     "name": "I grund och i botten",
     "lyrics": "I grund och i botten är seglar’n sund.\nSund ska’ ha vatten som ej har grund.\nI grund är ej botten bra, nej\n— grundligt i botten ta. Hej!",
     "date_updated": "2015-03-30",
@@ -682,7 +682,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 68,
+    "page": 61,
     "name": "Hakkapelliternas Schnapsvisa",
     "lyrics": "Bästa vänner, det dags är att supa,\nmera brännvin vi häller i strupa. *\n\nOm nödvändigt, i stövlar vi stupa.\nEj en droppe i glaset finns kvar.\nOm nödvändigt, i stövlar vi stupa.\nEj en droppe i glaset finns kvar. **\n\nI min strupe det är torrt som fasen,\nIvrigt fattar och tömmer vi glasen. *\n\nOch gemensamt vi trivs på kalasen,\nvi har glädjen i topp - vi mår bra!\nOch gemensamt vi trivs på kalasen,\nvi har glädjen i topp - vi mår bra! **\n\nBästa vän, nu ska vi celebrera,\nbanne mej, om jag ej vill ha mera! *",
     "date_updated": "2015-03-30",
@@ -693,7 +693,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 69,
+    "page": 62,
     "name": "Mera brännvin",
     "lyrics": "Mera brännvin i glasen,\nmera glas på vårt bord,\nmera bord på kalasen,\nmer kalas på vår jord.\n\nMera jordar kring månen,\nmera månar kring Mars,\nmera marscher till Skåne,\nmera Skåne, Gud bevars!",
     "date_updated": "2015-03-30",
@@ -704,7 +704,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 70,
+    "page": 62,
     "name": "Lisää viinaa",
     "lyrics": "Lisää viinaa mun lasiin,\nlisää laseja pöydälle,\nlisää pöytiä näihin juhliin,\nlisää juhlia kansalle.\n\nLisää kansaa Suomeen,\nlisää Suomea päälle maan,\nlisää maata Suomelle,\nmarssitaan Karjalaan, Karjalaan!",
     "date_updated": "2015-03-30",
@@ -715,7 +715,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 71,
+    "page": 63,
     "name": "Tycker du som jag",
     "lyrics": "Tycker du som jag,\nså nubbar vi,\nty nubben gör dej glad och fri.\nVi tar en, vi tar två,\nvi tar tre, fyra, fem,\noch alla så tar vi med kläm.\nSola hon går upp och ned\noch vi följer alla med,\nför tussilullanlull\nnär jag är full\ndå é ja’ så go’ som gull!",
     "date_updated": "2015-03-30",
@@ -726,7 +726,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 72,
+    "page": 63,
     "name": "En stor sup",
     "lyrics": "En stor sup ska göra underverk,\nunderverk, underverk.\nEn stor sup ska göra underverk,\nså blir vi helgon allesammen!\nAmen!",
     "date_updated": "2015-03-30",
@@ -737,7 +737,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 73,
+    "page": 63,
     "name": "En nypa luft",
     "lyrics": "En nypa luft är inte nog för en lunga,\nen droppe vatten kan inte läska en tunga,\nen ensam ko är inte nog för att kalva,\nen ensam hela behöver också en halva!",
     "date_updated": "2015-03-30",
@@ -748,7 +748,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 74,
+    "page": 64,
     "name": "Så länge rösten är mild",
     "lyrics": "Så länge rösten är mild,\nså länge ingen är vild,\nså länge spegeln på väggen\nger halvskaplig bild.\nSå länge alla kan stå, så länge alla kan gå,\nså länge alla kan tralla, så fyller vi på!\n\nVem har sagt att just du kom med storken\nför att bli glad av att lukta på korken?\nMen kring vårt bord här nå’nstans\nvi höjer bägarn med glans\noch låter vinet gå ner i en yrande dans.",
     "date_updated": "2015-03-30",
@@ -759,7 +759,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 75,
+    "page": 64,
     "name": "Flottskaja",
     "lyrics": "Äta flottskaja\nDricka gottskaja\nDricka merskaja\nSlå i flerskaja\nÅ bli fullskaja\nFall’ omkullskaja\nOm ja’ villskaja\nTa en till.",
     "date_updated": "2015-03-30",
@@ -770,7 +770,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 76,
+    "page": 65,
     "name": "Vikingen",
     "lyrics": "En viking älskar livets vann,\nHurra, hurra!\nDen hastigt i mitt svalg försvann,\nHurra, hurra!\nTill kalv, till oxe, till fisk, till fläsk,\nnär kärringen bara dricker läsk.\nJa, då vill alla vikingar ha en bäsk.\n\nNär vi har druckit bäsken slut,\ntragik, tragik!\nDå bäres varje viking ut,\nsom lik, sig lik.\nOch sen om vi vaknar, vi sjunger en bit,\nsen korkar vi upp Skånes Akvavit;\nskål för alla vikingar som kom hit!",
     "date_updated": "2015-03-30",
@@ -781,7 +781,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 77,
+    "page": 65,
     "name": "Brännvin, öl och gammal finkel",
     "lyrics": "Brännvin, öl och gammal finkel\ngör att örat ser i vinkel\ndärför hamnar inte supen\ni strupen utan i min hörapparat!",
     "date_updated": "2015-03-30",
@@ -792,7 +792,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 78,
+    "page": 66,
     "name": "Brännvin, vatten",
     "lyrics": "Brännvin, vatten,\nsmakar skit som katten.\nBrännvin helt rått\n//: smakar jävligt gott! ://\n\nViinaa, vettä,\nmitä perkelettä?!?\nViinaa raakaa,\n//: napaan kaatakaa! ://",
     "date_updated": "2015-03-30",
@@ -803,7 +803,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 79,
+    "page": 66,
     "name": "Nu ska vi klämma septen gutår",
     "lyrics": "Nuskaviklämmaseptengutår\nklämmaentrudeluttomdetgår\ntjosanmohammedsnartärdevår\njulaftonärenfreda\nklunkklunkklunkklunkklunkklunk\nblandaågeblandaåge\nabrakadabraklunk\njulaftonärenfreda",
     "date_updated": "2015-03-30",
@@ -814,7 +814,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 80,
+    "page": 67,
     "name": "Telefonvisa",
     "lyrics": "Jag har en telefon,\nom någon ringer på’n,\nsom uppå sorger bär,\nså svarar jag såhär:\nDet finns en medicin,\nsom ger en glättig min,\ntages som den är,\nsnart sjunger jag såhär:\nJag har kastat alla sorgerna ner för min hals,\noch jag ser dem inte mer, och jag ser dem inte mer.\nJag har kastat alla sorgerna ner för min hals,\noch jag ser dem inte alls.\nFör jag är lycklig, jag är lycklig,\nmåndag,\ntisdag,\nonsdag,\ntorsdag,\nfredag,\nlördag,\nsöndag.\nJag är lycklig, jag är lycklig.\nJag är lycklig veckan lång.",
     "date_updated": "2015-03-30",
@@ -825,7 +825,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 81,
+    "page": 68,
     "name": "Spriträpp",
     "lyrics": "Å ja ha vari i Stockholm,\nå ja vari i Hull\nå alla ställen ja ha vari,\nha ja vari full.\nTirilinttanlej-tirilirilirilej!\n\nÅ ja ha va i Paris\nå i Rom å sådär\nå alla ställen ja va till,\nva törsten ti besvär.\nTirilinttanlej-tirilirilirilej!\n\nÅ ja va uti Wiborg\nå Tallinn å Moskva.\nAtt krypa över röda torget\ntog mej en hel da.\nTirilinttanlej-tirilirilirilej!\n\nMen nu e ja tillbaka\nhär uti Helsingfors,\nmen likadant, som utomlands,\nser ögonen i kors.\nTirilinttanlej-tirilirilirilej!",
     "date_updated": "2015-03-30",
@@ -836,7 +836,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 82,
+    "page": 68,
     "name": "Kassen full",
     "lyrics": "Kassen full\nförbi vår tull\nhämtar jag hem med mej.\n//: Jag hämtar brännvin, genever och gin\noch allt så dricker jag själv! ://",
     "date_updated": "2015-03-30",
@@ -847,7 +847,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 83,
+    "page": 69,
     "name": "Brännvinskällaren på Söder",
     "lyrics": "Skål, bröder är vi alla!\nVi skall supa, tills vi falla,\nja, tiden för oss alla lider,\nja, tiden för oss alla lider,\nlider,\nlider,\nja, tiden för oss alla vedbod.\n\nSen när jag blivit döder,\nskild ifrån mina bröder,\nja, skild ifrån mina bröder,\nfrån brännvinskällaren på Söder,\nSöder,\nSöder,\nfrån brännvinskällaren på Söder.\n\nSkriven uppå min gravsten\nnågra förgyllda rader:\nHÄR vilar en gammal gosse,\nsom i alla tider varit glader,\nglader,\nglader,\nsom i alla tider varit Martin*.",
     "date_updated": "2015-03-30",
@@ -858,7 +858,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 84,
+    "page": 71,
     "name": "Bluffens brännvinskor",
     "lyrics": "Till supen, till supen\nnu bägaren höj opp!\nI djupen, i djupen\nihälles varje dropp.\nSkåla och buga och böj era armar\nbrännvinet värmer i mage och tarmar.\nKling klong, kling klong,\nhör tombuteljer slå.",
     "date_updated": "2015-03-30",
@@ -869,7 +869,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 85,
+    "page": 72,
     "name": "Härjarevisan",
     "lyrics": "Liksom våra fäder vikingarna i Norden\ndrar vi riket runt och super oss under borden.\nBrännvinet har bli’tt ett elixir,\nför kropp såväl som själ.\nKänner du dig liten och ynklig på jorden,\nväxer du med supen och blir stor uti orden,\nslår dig för ditt håriga bröst\noch blir en man från hår till häl!\n\nJa, nu ska vi ut och härja,\nsupa och slåss och svärja,\nbränna röda stugor,\nslå små barn och säga fula ord!\nMed blod ska vi stäppen färga,\nnu änteligen lär jag\nkunna dra nå’n verklig nytta\nav min Hermodskurs i mord.\n\nHurra, nu ska man äntligen få röra på benen,\nhela stammen jublar och det spritter i grenen.\nTänk att än en gång\nfå spränga fram på Brunte i galopp.\nDin doft, o kära Brunte,\när trots brist i hygienen\nför en vild mongol minst lika ljuv som syrenen.\nTänk att på din rygg\nfå rida runt i stan och spela topp.\n\nJa, nu ska vi ...\n\n\nMordbränder är klämmiga, ta fram fotogenen\noch eftersläckningen tillhör just de fenomenen\ninom brandmansyrket\nsom jag tycker är nå’n nytta med.\nJag målar för mitt inre upp den härliga scenen,\nblodrött mitt i brandgult, ej ens prins Eugen\nen lika mustig vy kan måla\nens om han målade med sked!\n\nJa, nu ska vi ...",
     "date_updated": "2015-03-30",
@@ -880,7 +880,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 86,
+    "page": 73,
     "name": "Jäsa, jäsa",
     "lyrics": "Jäsa, jäsa brännvin,\nvem skall brygden dricka?\nSvakar säger inte nej -\nvad säger Svakars flicka?\n<i>avec piper:</i>Fy fan,\n\nfy fan,\njag får sån jävla hicka.",
     "date_updated": "2015-03-30",
@@ -891,7 +891,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 87,
+    "page": 74,
     "name": "Skärgårdsidyll",
     "lyrics": "Det satt en mås på en klyvarbom\noch tom i krävan var kräket.\nOch tungan lådde vid skeppar’ns gom\ndär han satt uti bleket.\nJag vill ha sill, hördes måserope’\noch skeppar’n svarte: Jag vill ha O.P.\nOm blott jag får, om blott jag får.\n\nDet satt en mås på en klyvar-\nBOM! TRÄFF! SJÖNK!",
     "date_updated": "2015-03-30",
@@ -902,7 +902,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 88,
+    "page": 74,
     "name": "Vem sade ordet skål?",
     "lyrics": "Vem sade ordet SKÅL här vid bordet\nviskande for det sällskapet kring.\nFattom kristallen, nubben är kall den\nstiger åt skallen, kling klingeling!\nKäraste vänner, välkomna hit!\nHoppas ni har en “bon appetit”.\nNu lilla nubben, tages på stubben\nSKÅL lilla nubben, kling klingeling.",
     "date_updated": "2015-03-30",
@@ -913,7 +913,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 89,
+    "page": 75,
     "name": "Skärgårdstragedi",
     "lyrics": "Den mås som satt på en klyvarbom,\nden är nu död och begraven,\noch skeppar’n som drack en flaska rom,\nhan har nu drunknat i haven,\nSå kan det gå om man fått för mycke’,\nom man för brännvin har fattat tycke,\nVi som har kvar, vi resten tar.",
     "date_updated": "2015-03-30",
@@ -924,7 +924,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 90,
+    "page": 75,
     "name": "Ack du goda brännvin",
     "lyrics": "Ack du goda brännvin vad jag vill\nlyckas hälla upp dej en gång till.\nFinns det något bra sätt\natt få nubbeglaset\nsom jag har i handen att stå still?\nGlaset mitt gör motstånd på nå’t sätt.\nOj, det var visst grannens, tänk så lätt\nså’na saker händer\näven ibland fränder\nom man sätter gästerna för tätt.",
     "date_updated": "2015-03-30",
@@ -935,7 +935,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 91,
+    "page": 76,
     "name": "Alla borde känna till",
     "lyrics": "//: Alla borde känna till,\nalla borde känna till,\nalla borde känna till\nvad brännvin är. ://\n\nDet är undermedicinen,\nbrännvin läker alla sår,\nbrännvin trissar upp humöret,\nså var med när helan går.\n\nAlla borde...\n\nHelan påbörjar måltiden,\nHelan ger dig appetit\noch när Helan är i magen,\nse’n skall Halvan stjälpas dit.\n\nAlla borde...",
     "date_updated": "2015-03-30",
@@ -946,7 +946,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 92,
+    "page": 77,
     "name": "Den gamla apparaten",
     "lyrics": "När som sädesbrännvin rinner nedför strupen,\ngår min tanke till mitt forna barndomshem,\ndär jag som fyraåring fick den första supen\nfrån den stora destillatorn i vårt hem.\n\nSå kom länsman, tog det käraste vi ägde;\ntog den gamla apparaten med sej hem.\nNu står alla glasen tomma uppå bordet,\noch han bränner själv den gamle jävelen!",
     "date_updated": "2015-03-30",
@@ -957,7 +957,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 93,
+    "page": 77,
     "name": "Vi hæver den, vi sænker den",
     "lyrics": "Vi hæver den, vi sænker den\nnu skal den ud og vandre.\nVi hæver den, vi sænker den,\nog hilser på hverandre.\nOg gid at den, og mange fler\nden samme vej må vandre.\nVi hæver den, vi sænker den,\nnu skal den ned til de andre.",
     "date_updated": "2015-03-30",
@@ -968,7 +968,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 94,
+    "page": 78,
     "name": "Dance Macabre",
     "lyrics": "Runt kring vår stuga\nsmå djävlar sluga,\ntassa så tyst med bockfot och svans.\nVarulvar ylar,\nisande kyla,\nsveper i dimman fanstygens dans.\nBäva, o broder, lyssna och hör\nvrålen från gast, som osalig dör.\nSatan han skrattar,\nflaskan han fattar,\nsuper tills dagen gryr.\n\nGastar och spöken\nskymtar i kröken,\ndödingar släpa ruttnande lik.\nBenrangel skramla,\nspökhänder famla,\nkväva din strupes rosslande skrik.\nHelvetets alla fasor släpps loss,\nFan rider här med hela sin tross.\nGöm dig i stugan,\ndu har fått flugan,\ndille det blir din lott.",
     "date_updated": "2015-03-30",
@@ -979,7 +979,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 95,
+    "page": 79,
     "name": "Halloj",
     "lyrics": "//: Halloj,\njag vill inte ha nån mera läsk\nHalloj,\njag vill inte ha nån mera läsk\nHalloj,\njag vill inte ha nån mera läsk,\njag vill ha öl,\noch vin,\noch bäsk! ://\n\nHalloj!",
     "date_updated": "2015-03-30",
@@ -990,7 +990,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 96,
+    "page": 79,
     "name": "Kaisers midsommarvisa",
     "lyrics": "Nu har vi rus här i vårt hus.\nSnapsen är kommen\nhopp tralla-la-la.\nBarnen omkring halsa i ring,\nhalsa i ring.\n\n//: Jag är inte full jag är allergisk\nJag är inte full jag är allergisk\ntralla-la-la-la-la-la-la-la-la-la-\nla-la-la-la-lalla! ://",
     "date_updated": "2015-03-30",
@@ -1001,7 +1001,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 97,
+    "page": 80,
     "name": "Här i vårt kvarter",
     "lyrics": "Här i vårt kvarter\ndär ingen fan oss ser.\nDär så skall vi supa\ntills vi mot varandra ler.\nDär skola sånger skalla\ntills vi under bordet falla\noch projna-flaskan inte ser! Karjala!\nTusen nubbar röda\ni vår strupe glöda.\nDoften förs av sunnanvind,\nfärgen stiger högt på kind.\nTusen nubbar långa\ni vår mage krångla\nTusen nubbar supas bort.\nNubbarnas tid är kort.",
     "date_updated": "2015-03-30",
@@ -1012,7 +1012,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 98,
+    "page": 80,
     "name": "Tre små nubbar",
     "lyrics": "//: Tre små nubbar tar jag på en gång\noch tre därefter, så stora. ://\n\nJag blir så rolig av nubbarna de små,\nnubbarna de små och de stora likaså.\nBlir jag inte det\nav denna kvantitet,\nså var de nog för små\nde som var stora.",
     "date_updated": "2015-03-30",
@@ -1023,7 +1023,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 99,
+    "page": 81,
     "name": "Långvägavisan",
     "lyrics": "Det är lång väg för lilla supen,\ndet är lång väg att gå.\nDet bränner illa i hela strupen\noch det kittlar i var tå.\nÅh, det susar rätt upp i knoppen,\nvarje droppe känns som två.\n//: Det säger: Usch, usch, usch\ni hela kroppen,\nmen är härligt ändå. ://",
     "date_updated": "2015-03-30",
@@ -1034,7 +1034,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 100,
+    "page": 81,
     "name": "Där som sädesfälten",
     "lyrics": "Där som sädesfälten böjer sig för vinden,\nstår nån djävel där och böjer dom tillbaks!",
     "date_updated": "2015-03-30",
@@ -1045,7 +1045,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 101,
+    "page": 82,
     "name": "Presidentvisa",
     "lyrics": "Och Mauno han satt på Gullranda,\nhojta’ på frun.\nMen hon satt i andra ändan\nuti sin paulun.\nDet eka’ i valven som vette mot norr,\nnär Mauno gick till skåpet\nför att ta sig en knorr.\n\n“Kom hit, ska vi ta en tuting,\nfru Tellervo-vo!”\nMen Tellervo skrek tillbaka:\n“Nej, Mauno, nå, nå!”\nMen avståndet gör att man kan vara viss,\natt Mauno hann svälja\noch säga: “KIPPIS!”",
     "date_updated": "2015-03-30",
@@ -1056,7 +1056,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 102,
+    "page": 82,
     "name": "Det fanns brännvin i flaskan",
     "lyrics": "Det fanns brännvin i flaskan när vi kom **\nnär vi gick **\nva’ den tom **",
     "date_updated": "2015-03-30",
@@ -1067,7 +1067,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 103,
+    "page": 83,
     "name": "Ligistvisa",
     "lyrics": "När jag är full, är jag också glad,\nFan vet om jag ej är vacker.\nJag går omkring i vår lilla stad\ni alla parker och rabatter.\nVartenda träd sparkar jag omkull;\ndet gör jag bara när jag är full\noch vacker!",
     "date_updated": "2015-03-30",
@@ -1078,7 +1078,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 104,
+    "page": 84,
     "name": "Nu har vi ljus",
     "lyrics": "Nu har vi ljus\nhär i vårt hus,\nfar han har tagit\nsig ett duktigt rus.\nMor hon är full,\nramlar omkull,\nvälter ett ljus.\nSe, hur alla barnen brinner inne;\nfjorton stycken, lille Karl i minne.\nFarfar, trogen, han säljer plogen\noch drar åt skogen på krogen!",
     "date_updated": "2015-03-30",
@@ -1089,7 +1089,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 105,
+    "page": 84,
     "name": "Brännvin är jävligt gott",
     "lyrics": "Brännvin är jävligt gott,\nja brännvin är jävligt gott.\nJa brännvin är jävligt,\nja brännvin är jävligt,\nja, brännvin är jävligt gott.\n\nBrännvin är jävligt gott,\nja brännvin är jävligt gott.\nSlår man i golvet,\nsådär bortåt tolv-ett,\nså slår man sig jävligt hårt.",
     "date_updated": "2015-03-30",
@@ -1100,7 +1100,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 106,
+    "page": 85,
     "name": "Att ta sig en fjäder",
     "lyrics": "Att ta sig en fjäder vareviga dag,\nsing hey-diddle-do in the morning,\när traditionen i England idag,\nsing hey-diddle-do in the afternoon.\nWhiskey, soda, and Guinness are best,\nsing hey-diddle-do if you’re able to.\nDet gör hela livet till en fest,\n///: sing hey-do-diddle-do-dey, hey! :///",
     "date_updated": "2015-03-30",
@@ -1111,7 +1111,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 107,
+    "page": 85,
     "name": "Ack om jag bodde på en krog",
     "lyrics": "Ack om jag bodde på en krog\noch bror min på en annan\noch penningar vi hade nog\noch dubbelt öl i kannan.\nEn vacker flicka på vart knä\noch spelemän som spelade\noch ingenting fallerade,\n//: då vore ljuvt att leva. ://",
     "date_updated": "2015-03-30",
@@ -1122,7 +1122,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 108,
+    "page": 86,
     "name": "Snapsen är kommen",
     "lyrics": "Snapsen är kommen,\nsnapsen är god,\nsnapsen ger stämning\ntill vårt smörgåsbord.\nOch snapsen ger alla\nett gott humör,\noch snapsen förvandlar en tondöv skara\ntill en änglakör.\nOch nu när bägarn skall höjas\nsjunges en drill,\nrösterna skalla\nvåra vänner till!\nVi lyfter på knallen och klingar kristallen\nstilfullt och med bravur,\ndricka snaps\när finkultur!",
     "date_updated": "2015-03-30",
@@ -1133,7 +1133,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 109,
+    "page": 87,
     "name": "Alkonålen",
     "lyrics": "Om du är fattig och du vill dricka\npå ett kalas kan du alltid sticka\nen liten nål i din grannes stjärt\nså att han spiller sin nubbe tvärt.\nOch upp i luften far lilla nubben\ndå är du där med ditt glas på stubben\n//: och fångar upp den och dricker ur\nmed alkonål och med lite tur. ://",
     "date_updated": "2015-03-30",
@@ -1144,7 +1144,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 110,
+    "page": 87,
     "name": "Gudingen",
     "lyrics": "När snapsen är kall som en natt i april\noch kniporna vänslas i viken intill,\noch gudingen ropar till ådan: auuuuu,\ndå gör vi som gudingen - tar den nu!",
     "date_updated": "2015-03-30",
@@ -1155,7 +1155,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 111,
+    "page": 87,
     "name": "Att vi är fulla",
     "lyrics": "Att vi är fulla det ser man på gången.\nAtt vi är lappar det hör man på sången:\n//: “Huimaa, huimaa-huimaa, huimaa, huimaa.\nHuimaa, huimaa-huimaa, huimaa, huimaa.” ://",
     "date_updated": "2015-03-30",
@@ -1166,7 +1166,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 112,
+    "page": 88,
     "name": "Minne",
     "lyrics": "Minne!\nJag har tappat mitt minne!\nÄr jag svensk, eller finne?\n- Kommer inte ihåg.\n\nInne!\nÄr jag ut’, eller inne?\nJag har luckor i minne.\n- Sån där små alkohål.\nMen besinne, *\nman tätar med det brännvin man får,\nfastän minnet och helan går!",
     "date_updated": "2015-03-30",
@@ -1177,7 +1177,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 113,
+    "page": 89,
     "name": "Vart?",
     "lyrics": "Minne?\nMuisti hävis’, mutt’ minne?\njuhlista selvisimme\n- muistikatkoja on.\n\nMinne?\nLähtisin vaikka minne,\nkunhan selvittäisimme\nmitä tapahtunut on.\nMutta tiedän mä keinon\nmikä auttaapi tuo:\nOta ryyppy, ja muistis’ juo!",
     "date_updated": "2015-03-30",
@@ -1188,7 +1188,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 114,
+    "page": 89,
     "name": "Vi som oss för att",
     "lyrics": "Vi som oss för att glupa satt, supa glatt,\nity den, som försmår sin första tår, törsta får.\nAv längtan vi tryckas\nav trängtan att lyckas.\nVi nu med bravur häller ur, eller hur?\n\nVi ger titt som tätt strupen sitt: Supen stritt\nskall forsa, och snart får sig tarmen vår, varm en tår.\nEr öven i seder\noch söven ned eder\nvid denna protest-bullerfest: Full är bäst!",
     "date_updated": "2015-03-30",
@@ -1199,7 +1199,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 115,
+    "page": 91,
     "name": "Sinnens fulla bruk",
     "lyrics": "Den som är vid sina sinnens fulla bruk\nfullt dem bruke för sin snaps förföriskt mjuk.\nUtan bruk av sjätte sinnet\nför förfinad njutnings skull\nbrukar fulla bruket göra brukar’n full.",
     "date_updated": "2015-03-30",
@@ -1210,7 +1210,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 116,
+    "page": 91,
     "name": "Nu är det nu",
     "lyrics": "//: Nu är det nu igen\noch nu är det nu igen\noch efter nu så kommer sedan. ://\n\n//: Men det var inte sant\noch det var inte sant\nför däremellan kommer medan. ://",
     "date_updated": "2015-03-30",
@@ -1221,7 +1221,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 117,
+    "page": 92,
     "name": "Strunt i sorger",
     "lyrics": "Strunt i sorger och bekymmer\nnågot roligt ska man ha.\nNär som livets afton skymmer\ndå är det slut på det roliga.\n//: Då går vi ut på vår balkong\noch sjunger denna enkla sång:\nHej dingelidong, hej dingelidong\nHej dingeli, dingelidong. ://",
     "date_updated": "2015-03-30",
@@ -1232,7 +1232,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 118,
+    "page": 92,
     "name": "Vi åker skridsko",
     "lyrics": "Vi åker skridsko på morsans golv,\n2 x 7 ½ = 12.\n2 x 5 = 7?\nHur i helvete räknar du?\nJO!!\nNubbar man för mycket blir livet kort.\nNubbar man för lite blir livet torrt.\nNej gör som jag:\nNubba lite varje dag!",
     "date_updated": "2015-03-30",
@@ -1243,7 +1243,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 119,
+    "page": 93,
     "name": "Pinka vill jag gärna",
     "lyrics": "Pinka vill jag gärna när\njag har druckit upp den här\nO.P., Skåne, Akvavit,\nblåsan min är full av sprit\nDet är inte varje dag\nden är fullare än jag",
     "date_updated": "2015-03-30",
@@ -1254,7 +1254,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 120,
+    "page": 93,
     "name": "Skåne thaft",
     "lyrics": "Skåne thaft,\nden bästa thaft vi nå’nsin haft.\nSkåne thaft\nden bäthta thaft vi haft.\nOch den thom inte har nån kraft\nhan dricka thkall av denna thaft.\nSkåne thaft\ntill landth, till thjöth, till havth!",
     "date_updated": "2015-03-30",
@@ -1265,7 +1265,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 121,
+    "page": 94,
     "name": "Uti min mage",
     "lyrics": "Uti min mage en längtan mig tär,\nkom hjärtans fröjd.\nDär råder en hunger som ropar så här:\nKom kryddsill och kall potatis,\nkom brännvin i quantum satis,\nkom allt som kan drickas,\nkom hjärtans fröjd.\n\nUti min mage en längtan mig tär,\nkom hjärtans kär.\nVill du mig något så har jag det här,\nkom Skåne och Aqua Vitæ,\nkom O.P. och allt vad sprit är,\nkom ljuva Genever,\nkom Överste.\n\nUti min mage en längtan mig tär,\nkom hjärtans fröjd.\nDär råder en hunger som ropar så här:\nKom famnande lena armar,\nkom läppar och sköna barmar,\nkom fagraste kvinnor,\nkom hjärtans fröjd.",
     "date_updated": "2015-03-30",
@@ -1276,18 +1276,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 122,
-    "name": "Uti min mage",
-    "lyrics": "Uti min mage en längtan mig tär,\nkom hjärtans fröjd.\nDär råder en hunger som ropar så här:\nKom kryddsill och kall potatis,\nkom brännvin i quantum satis,\nkom allt som kan drickas,\nkom hjärtans fröjd.\n\nUti min mage en längtan mig tär,\nkom hjärtans kär.\nVill du mig något så har jag det här,\nkom Skåne och Aqua Vitæ,\nkom O.P. och allt vad sprit är,\nkom ljuva Genever,\nkom Överste.\n\nUti min mage en längtan mig tär,\nkom hjärtans fröjd.\nDär råder en hunger som ropar så här:\nKom famnande lena armar,\nkom läppar och sköna barmar,\nkom fagraste kvinnor,\nkom hjärtans fröjd.",
-    "date_updated": "2015-03-30",
-    "category_id": 6,
-    "post": "musik: trad.",
-    "pre": "mel: Uti vår hageA-dur, e",
-    "protected": 1,
-    "date_uploaded": "2015-03-25"
-  },
-  {
-    "id": 123,
+    "page": 95,
     "name": "Båd’sommar och vinter",
     "lyrics": "Båd’\nsommar och\nvinter ner\nnubben den slinter\ni pojkar och stinter,\ngår bra, går bra och nu\nvi ej töva vår nykterhet\npröva och sjunga och öva,\ngår bra, går bra! Ett visst\nkvistfritt kvastskaft och\nkaffekaskdags strax sex laxar i\nlaxask går bra, går bra den provet\nkan klara, han kan utan fara\nta supen och svara; GÅR BRA, GÅR BRA!",
     "date_updated": "2015-03-30",
@@ -1298,7 +1287,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 124,
+    "page": 96,
     "name": "Vi gå över ån...",
     "lyrics": "Vi gå över ån efter sprit, fallera,\nmen efter vatten gå vi ej en bit, fallera,\nJa, drick kära bröder\nfast näsan är röder\nför tids nog så blir den akvavit, fallera!",
     "date_updated": "2015-03-30",
@@ -1309,7 +1298,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 125,
+    "page": 96,
     "name": "Dominoeffekten",
     "lyrics": "Ta dej ett rus!\nDrick vad som bju’s!\nUnna dej några droppar spiritus!\nNär du blir sned,\nställ dej på led!\nFölj gammal sed!\nNär vi ställt oss, hela tjocka släkten,\nska vi leka dominoeffekten:\nfaller far, faller farfars far,\nfaller du och ja, faller alla.",
     "date_updated": "2015-03-30",
@@ -1320,7 +1309,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 126,
+    "page": 97,
     "name": "Liten Jumbo",
     "lyrics": "Liten Jumbo flyger över Sovjet.\nMig-23 går upp och skjuter ner.\n//: Liten Jumbo störtar ner i havet,\nliten Jumbo flyger aldrig mer. ://\n\nLiten ubåt simmar in i Sverige.\nLiten ubåt stöter på ett grund.\n//: Liten ubåt flyter upp till ytan,\nliten ubåt simmar aldrig mer. ://\n\nLiten Ivan springer över stäppen.\nK-pist smattrar, Ivan faller ner.\n//: Blod och slamsor sprides över stäppen,\nliten Ivan springer aldrig mer. ://\n\nLitet kraftverk smäller uti Sovjet.\nRyssar dör som flugor runt omkring.\n//: Hela saken tystas ner av staten,\nlitet kraftverk finns ej längre mer. ://\n\nLitet JAS-plan flyger över Stockholm.\nMotorn stoppar, piloten hoppar ut.\n//: Litet JAS-plan störtar ner i marken,\nlitet JAS-plan flyger aldrig mer. ://\n\nJAS, JAS, JAS, du kan lita på MIG!",
     "date_updated": "2015-03-30",
@@ -1331,7 +1320,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 127,
+    "page": 98,
     "name": "Qväde till en sup",
     "lyrics": "När lurviga vikingar hade bankett\nefter blodigt och givande kap\nvar det gny uti sal, där en gödgris på spett\nsvann med mjödbrus och mäktiga rap.\nMen när tiden var inne, en bärsärk stod opp\nmed ett svaj i sin ärriga bål.\nEn stridslur gav ton, och när det var stopp\nföll han in med ett väldeligt vrål:\n\nEn sup skall vi ha, som är rivandes bra,\noch som känns uti ryggbast och hull!\nEn sup skall vi ha, hej och hoppsan fallera,\nså blir jag så glader och full.\n\nMed tiden vi fått något finare sätt\nett rap släpps ej fram som beställt.\nI ledung vi fått en turistetikett,\noch vi vänslas med tärnor helt snällt.\nMen när tiden är inne för småvarmt och sup\ndå släpper vi Barrabam loss.\nDå vaknar en viking i folksjälens djup,\noch han vill ju väsnas och slåss.\n\nEn sup skall vi ha...",
     "date_updated": "2015-03-30",
@@ -1342,7 +1331,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 128,
+    "page": 99,
     "name": "Tipp tapp",
     "lyrics": "Alla sova, tyst det är i huset,\ntyst i huset.\nFarmor snarkar, sover av sig ruset,\nav sig ruset.\nTipp, tapp, tipp, tapp\ntippetippetipp, tapp.\nTipp, tipp, tapp.\n\nRäven raskar, raskar över taken,\növer taken.\nGröna tomtar håller mamma vaken,\nmamma vaken.\nTipp, tapp,...",
     "date_updated": "2015-03-30",
@@ -1353,7 +1342,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 129,
+    "page": 99,
     "name": "Bulls snapsvisa",
     "lyrics": "På bordet står rader av snaps, fallera.\nOch när jag druckit upp och blivit full, faller jag.\n//: Ju fler snapsar jag supa desto snabbare jag stupa\nför då jag dricker snaps och blir full faller jag. ://",
     "date_updated": "2015-03-30",
@@ -1364,7 +1353,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 130,
+    "page": 99,
     "name": "Nu",
     "lyrics": "Int nu\noch int nu\nmen\nNU!",
     "date_updated": "2015-03-30",
@@ -1375,7 +1364,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 131,
+    "page": 100,
     "name": "The Moose",
     "lyrics": "Det satt en älg i en klyvartopp,\nförklädd i älgjaktens månad.\nHan var befjädrad till horn och kropp\n— skeppar’n blev rätt förvånad.\n“Jag är en mås, goa skeppar’n” ljög den\nförklädda älgen. Därefter flög den.\nMjukt föll den sen, på skepparen.",
     "date_updated": "2015-03-30",
@@ -1386,7 +1375,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 132,
+    "page": 100,
     "name": "Ser du stjärnan",
     "lyrics": "Ser du stjärnan i det blå?\nTag en sup så ser du två.\nTar du mera, ser du flera, stjärnor små.\n\nSer du stjärnan i det blå?\nNÄÄ!",
     "date_updated": "2015-03-30",
@@ -1397,7 +1386,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 133,
+    "page": 100,
     "name": "The BASIC sång",
     "lyrics": "LET oss nu fatta i våra glas\n<i>20</i>INPUT en klunk utav det som där has\n<i>30</i>IF du fått nog THEN till 50 min vän\n<i>40</i>ELSE GOTO-baka till 10 igen\n<i>50</i>END",
     "date_updated": "2015-03-30",
@@ -1408,7 +1397,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 134,
+    "page": 101,
     "name": "Hälsa kocken",
     "lyrics": "Hälsa kocken att ölet var gott,\nsärskilt jämfört med maten vi fått.\nHälsa vinkassan soppan var kall,\nsom snaps skall vara - i vanligt fall.\nHälsa med några välvalda ord\nden där hovmästarn som har skört i rocken,\natt det kött som vi fick till vårt bord\ndet borde hängas, och detsamma gäller kocken!",
     "date_updated": "2015-03-30",
@@ -1419,7 +1408,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 135,
+    "page": 101,
     "name": "Hälla hall hullit",
     "lyrics": "Hälla hall hullit\nskåla skall skullit\ndricka drack druckit\nspilla spall spullit\ntorka tark turkit\nvrida vrad vrudit\n//: fånga fang fungit\nallt i min mun ://",
     "date_updated": "2015-03-30",
@@ -1430,7 +1419,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 136,
+    "page": 102,
     "name": "Gör mig till finlandssvensk",
     "lyrics": "För att va’ svensk krävs inte mycket,\nej någon särskild karaktär.\nTig bara stilla som en jycke\nför inget svårmod får det finnas där.\n<i>Refräng 1:\n</i>Gör mig till finlandssvensk,\njag vill va’ halvutländsk\noch få va’ full på jobbet varje dag.\nDå får man slåss med kniv\noch ingen man med HIV\nhar gjort det farligt att små flickor ta.\n\nGå på IKEA ger mig ångest,\nSven-Bertil Taube ger allergi.\nI Sverige finns det bara kräftpest.\nMen i tusen sjöars land kan jag bli fri!\n<i>Refräng 2:\n</i>Gör mig till finlandssvensk,\njag vill va’ halvutländsk,\noch köra bil som bara Mika kan.\nKunna få vara tyst\noch ändå ratta byst,\nfå prata svenska - men ändå va’ man.",
     "date_updated": "2015-03-30",
@@ -1441,7 +1430,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 137,
+    "page": 103,
     "name": "Än en gång däran",
     "lyrics": "Än en gång däran, bröder!\nÄn en gång däran!\nFöljom den urgamla seden!\nIn till sista man, bröder,\nin till sista man\ntrotsa vi hatet och vreden!\nBlankare vapen sågs aldrig i en här\nän dessa glasen, kamrater: I gevär!\nÄn en gång däran, bröder,\nän en gång däran!\nSvenska hjärtans djup -\nhär är din sup!\n\nLivet är så kort, bröder!\nLivet är så kort!\nLek det ej bort, nej var redo!\nKämpa mot allt torrt, bröder!\nKämpa mot allt torrt.\nTänk på de gamla som skredo\nfram, utan tvekan i floder av champagne,\nstyrkta från början av brännvin från vårt land!\nKämpa mot allt torrt, bröder!\nKämpa mot allt torrt!\nSvenska hjärtans djup -\nhär är din sup!",
     "date_updated": "2015-03-30",
@@ -1452,7 +1441,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 138,
+    "page": 104,
     "name": "19 hönor",
     "lyrics": "19 hönor, bruna bönor\n18 kilogram\n17 stycken sillar ner i magen trillar\n16 läckra, spröda, smäckra rostade små lamm\n\n15 bullar sedan rullar ner i halsen lätt\n14 omeletter\n13 fläskkotletter\nJag bland rätter nästan sätter dem som nummer 1\n\n12 glas dricka kan jag slicka i mej när jag vill\n11 små potäter jag till middag äter\n10 gäddor\n9 skäddor\n8 kvistar dill\n\n7 små harar jag väl klarar, pannekakor\n6\n5 små gäss med krås till\n4 torskar sås till\n3 fasaner\n2 bananer och till slut\n1 älg HEJ!",
     "date_updated": "2015-03-30",
@@ -1463,7 +1452,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 139,
+    "page": 105,
     "name": "Brännvin hit",
     "lyrics": "Brännvin hit och brännvin dit\nOch brännvin är det bästa\nOch fan den som brännvin har\nOch inte bju’r sin nästa",
     "date_updated": "2015-03-30",
@@ -1474,7 +1463,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 140,
+    "page": 105,
     "name": "En välkyld snaps",
     "lyrics": "En välkyld snaps snaps snaps,\njag kanske tar en.\nFast jag redan många tagit har, jag är fullast i salen!\nMen magen trånar och vill ha mer\noch strupen tillägger: Kanske fler!\nså ner i djupedepedepedepet den rinner ner,\ndet kan bli fler!",
     "date_updated": "2015-03-30",
@@ -1485,7 +1474,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 141,
+    "page": 105,
     "name": "Nu är det jul igen",
     "lyrics": "//: Nu är det jul igen\noch pappa är full igen\noch mamma ligger under sängen. ://\n\n//: Men det var inte sant\noch det var intressant\nför däremellan ligger drängen. ://",
     "date_updated": "2015-03-30",
@@ -1496,7 +1485,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 142,
+    "page": 106,
     "name": "Jag var full en gång",
     "lyrics": "Jag var full en gång för länge sen,\npå knäna kröp jag hem\nvarje dike var för mig ett vilohem.\nI varje hörn, i varje vrå\nhade jag en liten vän\nifrån renat upp till nittiosex procent.\n\nJag var full en gång för länge sen\npå knäna kröp jag hem\noch som sällskap hade jag en elefant.\nElefanten spruta vatten\noch jag trodde det var öl\nsedan dess har alla kallat mig för knöl.\n<i>musik: Hugo Lindh* Andra versen kan sjungas eller upprepas med\nrimmet</i>öl - knöl\n<i>utbytt mot</i>vin - svin\n<i>eller</i>sprit - skit",
     "date_updated": "2015-03-30",
@@ -1507,7 +1496,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 143,
+    "page": 106,
     "name": "Hå’nt ja’nå’brännvin",
     "lyrics": "Hå’nt ja’ nå’ brännvin är det sorgeligt,\ndå är det sorgeligt, då är det sorgeligt.\nJa, hå’nt ja’ nå’ brännvin är det sorgeligt,\ndå kan en lägg’ sig ner och tvärdö.\n\n//: Men har ja’ brännvin, ja har ja’ brännvin,\ndå kan ja’ dansa natten lång ://\n\nHå’nt ja’ nå’ brännvin...",
     "date_updated": "2015-03-30",
@@ -1518,7 +1507,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 144,
+    "page": 107,
     "name": "När det kvällas",
     "lyrics": "Jag tar en liten varje morgon,\njag tar en liten mitt på dan.\nMen när det kvällas, ja sen när det kvällas,\ndå super jag av bara f-n! (För då är jag van)",
     "date_updated": "2015-03-30",
@@ -1529,7 +1518,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 145,
+    "page": 107,
     "name": "Jag ska festa",
     "lyrics": "Jag ska festa, ta det lugnt med spriten,\nha det roligt utan å va’ full.\nInte krypa runt med festeliten,\nta det varligt för min egen skull\n\nFörst en öl i torra strupen,\nefter det så kommer supen,\ni med vinet, ner med punschen.\nSist en groggbuffé.\n\nJag är skitfull, däckar först av alla,\nmissar festen, men vad gör väl de’?\nBlandar hejdlöst öl och gammal filmjölk,\nkastar upp på bordsdamen breve’!",
     "date_updated": "2015-03-30",
@@ -1540,7 +1529,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 146,
+    "page": 108,
     "name": "Hungervisan",
     "lyrics": "//: Magen den vrålar och strupen torkar\nLusten att festa den saknas totalt!\nVi sjunger och skålar så mycket vi orkar\nSnapsen i glaset den fuktar så svalt. ://\n//: För när vi nu sedan tagit en tår\nMera vi får\nMera vi får!\nSnapsen den verkar längs ryggradens kotor\nLivet är bättre med väloljad motor\nDå glömmer du allt\nDå glömmer du allt\nTill och med att du nyss satt och svalt! ://",
     "date_updated": "2015-03-30",
@@ -1551,7 +1540,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 147,
+    "page": 108,
     "name": "Tico tico",
     "lyrics": "Jag tar en liten nu\njag tar en liten sen\nom några timmar tar jag säkert en igen\nOch när det sen blir kväll\ntar jag en hel putäll\nså kan du vrida fram min klocka é du snäll!",
     "date_updated": "2015-03-30",
@@ -1562,7 +1551,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 148,
+    "page": 109,
     "name": "Kalla små nubbar",
     "lyrics": "Vad är det som gör att en skojare trivs?\n<i>alla:</i>Jo, kalla, kalla, kalla, kalla små nubbar.\n<i>solo:</i>Vad är det som först uppå festen väl givs?\n<i>alla:</i>Jo, kalla, kalla, kalla, kalla små nubbar.\n<i>solo:</i>Dom skänker oss alla ett solljust humör och\näven för kroppen stor nytta dom gör.\nMen ska man ta nubbar som regel dom bör\nva’ kalla,\n<i>alla:</i>Mycket kalla,\n<i>solo:</i>Ja, kalla,\n<i>alla:</i>Mycket kalla,\nJa, kalla, kalla, kalla, kalla små nubbar.\n<i>solo:</i>Vi sjunger och dansar, tar ton och ger hals\n<i>alla:</i>för kalla, kalla, kalla, kalla små nubbar.\n<i>solo:</i>Att nubben är dyr, det gör ingenting alls\n<i>alla:</i>för kalla, kalla, kalla, kalla små nubbar.\n<i>solo:</i>Dom älskar vi dricka på glada kalas\noch immiga står dom uti våra glas.\nOch nu denna kväll ska gemensamt här tas\nsmå kalla!\n<i>alla:</i>Vilka kalla?\n<i>solo:</i>Jo kalla!\n<i>alla:</i>Vilka kalla?\nJo, kalla, kalla, kalla, kalla små nubbar.",
     "date_updated": "2015-03-30",
@@ -1573,7 +1562,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 149,
+    "page": 110,
     "name": "Lingonröda näsor",
     "lyrics": "Med lingonröda näsor och med bullrande bas,\noch skinande som solen uppå våra små kalas,\nvi sjunga och vi tralla när vi höja våra glas,\nmen vad är det som gör att vi nu komma i extas?\nJo det är stänk av livets vatten,\ndet är helan lilla vän.\nDet är litrarna som staten inte lagt beslag på än.\nDet blir halvan, tersen, kvarten och\nden grogg vi dricka sen,\noch till morgonen vi sparat lilla återställaren.",
     "date_updated": "2015-03-30",
@@ -1584,7 +1573,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 150,
+    "page": 110,
     "name": "Min lilla snaps",
     "lyrics": "Min lilla snaps ner i halsen gick,\nrann genom strupen och gav mig en kick.\nNu är jag full, lite vinglig och så,\njag tror jag häller en liten därpå.\n\nJösses det smakade väldigt gott!\nStarkt, kallt och kryddat, helt enkelt flott.\nBlicken min vändes mot damen bredvid,\nsnyggare blev hon när jag hällde i.",
     "date_updated": "2015-03-30",
@@ -1595,7 +1584,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 151,
+    "page": 111,
     "name": "Rinn, rinn",
     "lyrics": "Rinn, rinn, du supen min,\nrinn du ljuva brännvin in.\nOch supen rann, och strupen brann,\nmen törsten den var likadan.",
     "date_updated": "2015-03-30",
@@ -1606,8 +1595,8 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 152,
-    "name": " Tjim",
+    "page": 111,
+    "name": "Tjo & Tjim",
     "lyrics": "När livet vårt är härligt, och vi vill dra igång\nDå brukar direktören samla alla till en sång\nDå skruvar vi av korken och stampar sen på den\nSå att den inte råkar skruvas på igen (vi sjunger)\nTjo&tjim&göttamej hurra!\nEn sup är bra att ha om man är ledsen eller gla’ (i hågen)\nTjo&tjim&göttamej hurra!\nEn sup är bra att ha om man är ledsen eller gla’\n\nNär livet är besvärligt och du är lite låg\nOch känner dig så blyg och dum, hej kompis, kom ihåg\nAtt tunghäfta och acne och svår melankoli\nDe botas alla lika bra med eau de vie (vi sjunger)\nTjo&tjim&göttamej hurra!\nEn sup är bra att ha om man är ledsen eller gla’ (i hågen)\nTjo&tjim&göttamej hurra!\nEn sup är bra att ha om man är ledsen eller gla’",
     "date_updated": "2015-03-30",
     "category_id": 6,
@@ -1617,7 +1606,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 153,
+    "page": 113,
     "name": "En sedeslärande visa",
     "lyrics": "Efter många snapsar,\nbör man känna till\natt om man kollapsar\ntröttheten slår till.\nNästa dag man mår,\nsom en prins gutår!\nOm man tar en liten,\nmed sill därtill, med sill därtill.",
     "date_updated": "2015-03-30",
@@ -1628,7 +1617,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 154,
+    "page": 113,
     "name": "Nu går de gamle hjem",
     "lyrics": "Nu går de gamle hjem, nu går de gamle hjem,\nnu går de hjem!...",
     "date_updated": "2015-03-30",
@@ -1639,7 +1628,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 155,
+    "page": 113,
     "name": "Vårvisa",
     "lyrics": "Nu hoppar laxen! Nu blommar häggen!\nNu lyfter taxen sitt ben mot väggen.\nSssssssssssssssskål!\n\nEtt litet avbrott har visan fått,\noch under tiden har taxen gått.",
     "date_updated": "2015-03-30",
@@ -1650,7 +1639,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 156,
+    "page": 114,
     "name": "Se glasen vi har",
     "lyrics": "Se glasen vi har\nFylls med koskis så skimrande klar\nSvep dem utan spill\nEfter att vi har sjungit en drill\nOm baksmällan slår\nEfter festen vi hade igår\nDen framåt förskjut\nTill dess all våran koskis är slut!",
     "date_updated": "2015-03-30",
@@ -1661,7 +1650,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 157,
+    "page": 114,
     "name": "Siffervisan",
     "lyrics": "1, 2, 75, 6, 7, 75, 6, 7, 75, 6, 7\n1, 2, 75, 6, 7, 75, 6, 7, 73\n107, 103, 102\n107, 6, 19, 27\n17, 18, 16, 15\n13, 19, 14, 17\n19, 16, 15, 11\n8, 47!",
     "date_updated": "2015-03-30",
@@ -1672,7 +1661,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 158,
+    "page": 115,
     "name": "Solen den går",
     "lyrics": "Solen den går upp och ner duda, duda.\nJag skall aldrig supa mer, hej dudadej.\nHej dudadej, hej dudadej.\nJag skall aldrig supa mer, hej dudadej.\n\nMen detta var ju inte sant duda, duda.\nI morgon gör jag likadant, hej dudadej.\nHej dudadej, hej dudadej.\nI morgon gör jag likadant, hej dudadej.",
     "date_updated": "2015-03-30",
@@ -1683,7 +1672,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 159,
+    "page": 115,
     "name": "Vad i allsin dar",
     "lyrics": "Vad i allsin dar,\nhar du brännvin kvar?\nÄr du sparsam eller snål?\nSKÅL! (sparsamma sjunger: SNÅL!)",
     "date_updated": "2015-03-30",
@@ -1694,7 +1683,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 160,
+    "page": 121,
     "name": "Das Königslied",
     "lyrics": "//: Ein König ist der Wein! ://\nMit Segen reich beladen\nist er von Gottes Gnaden\nund mancher Purpur sein.\nEin König, ein König,\n//: ein König ist der Wein! ://\n\nDet var en gång en kung\nsom dog för folkets väl!\nDe sista ord han sade\nnär näsan upp han lade\nvar: “Djävlar i min själ!\nVad djävlar, vad djävlar,\n//: vad djävlar i min själ!” ://\n\nDet var en gång en kung\nsom doooooog...",
     "date_updated": "2015-03-30",
@@ -1705,7 +1694,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 161,
+    "page": 123,
     "name": "Lyftet",
     "lyrics": "Lyft ditt välförsedda glas\ndet är en ljuvlig börda,\nnu har grabbarna kalas,\noch vi skall segern skörda!\n//: Ding, dinge-dinge-ding\ndinge-dinge-ding\ndinge-dinge-ding, dong-dong,\ni morgon är det lördag. ://\n\nLyft nu munnen till ditt glas,\nse, döden på dig väntar!\nNu har grabbarna kalas,\nhör, liemannen flämtar!\n//: Ding, dinge-dinge-ding\ndinge-dinge-ding\ndinge-dinge-ding, dong-dong,\nbegravningsklockor klämtar. ://",
     "date_updated": "2015-03-30",
@@ -1716,7 +1705,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 162,
+    "page": 124,
     "name": "Fredmans sång nr 21",
     "lyrics": "Så lunka vi så småningom\nFrån Bacchi buller och tumult,\nNär döden ropar, Granne kom,\nDitt timglas är nu fullt.\nDu Gubbe fäll din krycka ner,\nOch du, du Yngling, lyd min lag,\nDen skönsta Nymph som åt dig ler\nInunder armen tag.\n\nTycker du at grafven är för djup,\nNå välan så tag dig då en sup,\nTag dig sen dito en, dito två, dito tre,\nSå dör du nöjdare.\n\nMen du som med en trumpen min,\nBland riglar, galler, järn och lås,\nDig hvilar på ditt penningskrin,\nInnom din stängda bås;\nOch du som svartsjuk slår i kras\nButeljer, speglar och pocal;\nBjud nu god natt, drick ut dit glas,\nOch helsa din rival;\n\nTycker du...\n\n\nMen du som med en ärlig min\nPlär dina vänner häda jämt,\nOch dem förtalar vid dit vin,\nOch det liksom på skämt;\nOch du som ej försvarar dem,\nFastän ur deras flaskor du,\nDu väl kan slicka dina fem,\nHvad svarar du väl nu?\n\nTycker du...\n\nSäg är du nöjd? min granne säg,\nSå prisa värden nu til slut;\nOm vi ha en och samma väg,\nSå följoms åt; drick ut.\nMen först med vinet rödt och hvitt\nFör vår Värdinna bugom oss,\nOch halkom sen i grafven fritt,\nVid aftonstjernans bloss.\n\nTycker du...",
     "date_updated": "2015-03-30",
@@ -1727,7 +1716,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 163,
+    "page": 126,
     "name": "Fredmans epistel nr 82",
     "lyrics": "Vila vid denna källa,\nVår lilla frukost vi framställa:\nRött vin med pimpinella\nOch en nyss skjuten beckasin.\nKlang, vad buteljer, Ulla!\nI våra korgar, överst fulla,\nTömda i gräset rulla,\nOch känn vad ångan dunstar fin,\nDitt middags vin\nSku vi ur krusen hälla\nMed glättig min.\nVila vid denna källa,\nHör våra valthorns klang, cousine.\n<i>- - - Corno con bocca chiusa - - -\n</i>Valthornens klang, cousine!",
     "date_updated": "2015-03-30",
@@ -1738,7 +1727,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 164,
+    "page": 126,
     "name": "Svärta rövin",
     "lyrics": "//: Om jag fick pengar\nför mina byxor\nskulle jag supa dem upp ikväll. ://\n\n//: Och svärta rövin\noch dansa naken\noch leva lycklig och glad och säll. ://",
     "date_updated": "2015-03-30",
@@ -1749,7 +1738,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 165,
+    "page": 127,
     "name": "Bordeaux, Bordeaux",
     "lyrics": "Jag minns än idag hur min fader\nkom hem ifrån staden så glader\noch rada’ upp flaskor i rader\noch sade nöjd som så: Bordeaux, Bordeaux!\nHan drack ett glas,\nkom i extas\noch sedan blev det stort kalas.\nOch vi små glin,\nja, vi drack vin\nsom första klassens fyllesvin.\nOch vi dansade runt där på bordet\noch skrek så vi blev blå: Bordeaux, Bordeaux!",
     "date_updated": "2015-03-30",
@@ -1760,7 +1749,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 166,
+    "page": 128,
     "name": "Frippes vinvisa",
     "lyrics": "Ett litet glas rödvin mot flunssan.\nFörbannat så härlig bouquet!\nNär ungdomen hånglas i Brunssan\när minnena här ska ni se.\n\nBatong och vin, rojsigt fint,\nvi skålar med glasen i klang\nCHAMPAGNE!\nEn kväll på stan, sidu på fan\ndet är ju Spitu i sin nya BMW, cabriolet.\n\nMed musslor och vin på Hangö västra\ni vår Nyländer Yacht ’45\nMed Gusi vi havet bemästra\ndet mojnar och snart styr vi hem.\n\nBatong ...\n\nVi tar å shoppar lite potis från Hallen,\nvi kör en brekkare med potatis och sill\n<i>pipigt:</i>Å har ni hört att Missen har skiljt sig från Nallen?\nÅ Brassen har fått en kläpp till (ÅTER)\n\nBatong och vin, rojsigt fint\nvi skålar med glasen i klang\nCHAMPAGNE!\nEn kväll på stan, sidu på fan\nDet är ju Gusi som kommer, så skoj\nSIDU MOJ’N!",
     "date_updated": "2015-03-30",
@@ -1771,7 +1760,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 167,
+    "page": 129,
     "name": "Jag är en främling",
     "lyrics": "Jag är en främling från Delos’ stränder\nfrån vänskapsöarnas varma länder.\nMin vandringsstav är av rankor virad\noch ibland vänner så dricker jag.\n\nMå därför ingen min lära klandra\natt dricka själv och att fylla andra.\nMin vandringsstav är av rankor virad\noch ibland vänner så dricker jag.\n\nO, ljuva flicka, har du ej anat\natt kärleksguden dig (själv) har danat.\nVäl främlingen ifrån Delos’ stränder\nsitt land kan glömma, men aldrig dig.\n\nFör jag är Bacchus och ingen annan,\nfast ingen lager bekransar pannan.\nMin vandringsstav är av rankor virad\noch ibland vänner så dricker jag.",
     "date_updated": "2015-03-30",
@@ -1782,7 +1771,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 168,
+    "page": 130,
     "name": "Här är gudagott att vara",
     "lyrics": "Här är gudagott att vara,\no, vad livet dock är skönt.\nHör var fröjd från fåglars skara,\nse vad gräset lyser grönt.\nHumlan surrar, fjäriln prålar,\nlärkan slår i skyn sin drill\noch ur nektarfyllda skålar\ndricka oss små blommor till.",
     "date_updated": "2015-03-30",
@@ -1793,7 +1782,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 169,
+    "page": 131,
     "name": "Bort allt vad oro gör",
     "lyrics": "Bort allt vad oro gör,\nBort allt vad hjärtat kväljer!\nBäst att man väljer\nBland dessa buteljer\nSin maglikör.\n\n//: Granne! gör du just som jag gör,\nVet denna oljan ger humör.\nVad det var läckert!\nVad var det? Rhenskt Bleckert!\nOui Ingenjeur!* ://\n\nBort allt vad oro gör,\nAllt är ju stoft och aska,\nLåt oss bli raska\nOch tömma vår flaska\nBland bröderna.\n\n//: Granne! gör du just som jag gör,\nVet denna oljan ger humör\nVad det var mäktigt!\nVad var det? Jo präktigt,\nMalaga - ja. ://",
     "date_updated": "2015-03-30",
@@ -1804,7 +1793,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 170,
+    "page": 132,
     "name": "Rhenvinets lov",
     "lyrics": "Ställ nu fram i källarsalen\nav den dunkelgröna färg\nhärligt glänsande pokalen\nfylld av ädla druvors märg.\nTy blott rhenvin vill jag dricka\nnöjd och glad i samma stund\n//: när mot mig dess pärlor blicka\nfrån pokalens vida rund. ://\n\nUnder Spaniens sol måhända\nfärgas druvan mera röd,\nmå champagnens eldflod tända\ni mitt bröst passionens glöd,\nmen det rhenska vin ej rusar,\nsans och måtta bo däri,\n//: och vårt sinne milt det tjusar\nlikt en älskad melodi. ://\n\nI min ungdoms fröjd och gamman\nsom i mannaåren än,\ndetta vinet band mig samman\nmed så mången trogen vän.\nDärför när mig döden nalkas,\nförr’n min kropp blir lagd i skrin,\n//: av en droppe låt mig svalkas\nav det ädla rhenska vin. ://",
     "date_updated": "2015-03-30",
@@ -1815,7 +1804,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 171,
+    "page": 133,
     "name": "Feta fransyskor",
     "lyrics": "Feta fransyskor som svettas om fötterna,\nde trampar druvor\nsom sedan skall jäsas till vin.\nTranspirationen viktig é,\nty den ge’\nfin bouquet.\nVårtor och svampar följer me’,\nmen vad gör väl de’?\nFör vi vill ha vin,\nvill ha vin,\nvill ha mera vin,\näven om följderna blir\natt vi må lida pin.\nFlaskan och glaset gått i sin.\nHit med vin, mera vin!\nTror ni att vi är fyllesvin?\nJa! Fast större!*",
     "date_updated": "2015-03-30",
@@ -1826,7 +1815,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 172,
+    "page": 134,
     "name": "Frans Mikael Franzéns dryckesvisa",
     "lyrics": "När skämtet tar ordet vid vänskapens bord\nmed fingret kring glasen som dofta.\nSå drick och var glad, på vår sorgliga jord\nman gläder sig aldrig för ofta.\n//: Ty en blomma är glädjen, i dag slår hon ut,\ni morgon förvissnar hon redan.\nJust nu, när du kan, hav en lycklig minut,\noch tänk på det kommande sedan. ://\n\nVem drog ej en suck över tidernas lopp?\nDock sitt ej och dröm på kalaset!\nHär lev i sekunden och hela ditt hopp\nse fyllas och tömmas i glaset.\n//: Här sörj ej för glaset, om fullt, så drick ut.\nOm tomt, så försänd det att fyllas!\nOch minns allt det sköna och goda förut\nsen glädjen och nöjet må hyllas. ://\n\nTy ägne vi först åt värdinnan en skål;\nvad vore vår fröjd utan henne?\nSen prise vi värden och särskilt hans bål;\nvad vore vårt mod utan denne?\n//: Dem båda förene ett glas och en sång,\nde själva så skönt sig förente.\nMed druvorna myrten blev skapt på en gång;\nvem ser ej, vad himmelen mente? ://\n\nFör övrigt må värden ge alltid nytt skäl\ntill ständig omsättning av glasen\noch visa att rangen är nyttig likväl\ntill skålarnas mängd vid kalasen.\n//: Men förr’n han är färdig\nmed klang och harang\nvi skynde att självmante dricka\noch helge ett glas, som är över all rang\ni tysthet en var åt sin flicka. ://Vem drog ej en suck över tidernas lopp?\nDock sitt ej och dröm på kalaset!\nHär lev i sekunden och hela ditt hopp",
     "date_updated": "2015-03-30",
@@ -1837,7 +1826,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 173,
+    "page": 135,
     "name": "Vinets lov",
     "lyrics": "När det strålar uti salen\nutav glädje, glans och färg,\nnär det gnistrar i pokalen\nutav ädla druvors märg.\nKära vänner, varför dröja\nmed att dricka glädjen till.\nLåt oss bortom framtids slöja\nse allt skönt vi skåda vill.\n\nDrick för allt som livet skänker\nglädjestunder, ljus och sol!\nDrick för stjärnorna som blänker\növer oss från pol till pol.\nDrick för sommarn, väl du kan det\ndrick för värmen sommarn ger.\nDrick för starka vänskapsbandet\ndrick för allt vad skönt du ser.",
     "date_updated": "2015-03-30",
@@ -1848,7 +1837,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 174,
+    "page": 136,
     "name": "Riddare av det runda bordet",
     "lyrics": "Riddare av det runda bordet\ndrickom ur, ty vårt vin är gott!\nDrickom ur - ja ja ja,\ndrickom ur - nej nej nej,\ndrickom ur, ty vårt vin är gott.\n\nI går jag drack fem à sex buteljer\nmed en qvinna uppå mitt knä.\nMed en qvinn’ - ja ja ja,\nmed en qvinn’ - nej nej nej,\nmed en qvinna uppå mitt knä.\n\n* * *, några slag på dörren,\nvem var det, jo, det var hennes man.\nVem var det - ja ja ja,\nvem var det - nej nej nej,\nvem var det, jo, det var hennes man.\n\nMen det blev fler och fler buteljer,\nty han var en kärvänlig själ.\nTy han var - ja ja ja,\nty han var - nej nej nej,\nty han var en kärvänlig själ.\n\nNär jag dör, vill jag bli begraven\ni en källare, där det finns vin.\nI en käll’ - ja ja ja,\ni en käll’ - nej nej nej,\ni en källare där det finns vin.\n\n\nFötterna emot själva muren\noch med käften inunder kran.\nOch med käft’ - ja ja ja,\noch med käft’ - nej nej nej,\noch med käften inunder kran.\n\nMitt kalla lik, ja, det bärs i graven\nav fyra storaste fyllesvin.\nFyra stor’ - ja ja ja,\nfyra stor’ - nej nej nej,\nfyra storaste fyllesvin.\n\nMinnesrunan: “Här må förmultna\nalla fyllhundars kejsare!”\nAlla fyll’ - ja ja ja,\nalla fyll’ - nej nej nej,\nalla fyllhundars kejsare.",
     "date_updated": "2015-03-30",
@@ -1859,7 +1848,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 175,
+    "page": 138,
     "name": "Fredmans sång nr 8",
     "lyrics": "Ach om vi hade, god’ vänner, en Så\nUngerskt vin för vår strupa,\nOch at vid såstången vi voro två,\nSom hade lof til at supa!\nVi skulle ligga, Gud signe Guds lån!\nJag och kamraten med tungan i sån.\nAch! om vi hade, god’ vänner, en Så\nUngerskt vin för vår strupa!\n\nJa! fast den sån vore tunger som bly,\nSkull’ han bli lätt til at bära;\nJag skull’ med krafter och rosende hy\nLyfta min börda och svära;\nOch min kamrat skulle ta mig i famn,\nDansa med stången och sjunga mitt namn.\nAch! om vi hade, god’ vänner, en Så\nUngerskt vin för vår strupa!\n\nEj på trehundrade steg någon själ,\nNej ingen käft på trehundra;\nNej våra portar skull’ stängas så väl,\nIngen skull’ bulta och dundra;\nBulta nå’n dit, skull’ vi lyfta vår stång,\nFäkta som bröder och dö på en gång.\nAch! om vi hade, god’ vänner, en Så\nUngerskt vin för vår strupa!\n\n\nBåd’ uti urväder, solsken och slask,\nDunder och blixt och i torka,\nJa om från himlen föll änglar pladask\nNeder i sån, skull’ vi orka,\nOrka at slås, köra opp dem til mån,\nTaga basunen och dricka ur sån.\nAck! om vi hade, god’ vänner, en Så\nUngerskt vin för vår strupa!",
     "date_updated": "2015-03-30",
@@ -1870,7 +1859,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 176,
+    "page": 140,
     "name": "En ballad om franske kungens spelmän",
     "lyrics": "Vi ha kommit från Burgund och från Guienne,\nfrån Brabant och från det gröna Normandie.\nVi ha aldrig sett de länderna igen,\nsen vi trummade för kungens kompani.\nHögt där Alpen lyfte kammen klang det “Kom!\nmed kung Karl och Oriflammen! Emot Rom!”\nOch den blåa luften bar\nvåra vimplar och standar,\ntills av liljorna Toscana stod i blom.\n\nÅ, de skörderskor vi sett bland lin och korn\nstå förundrade med famnen full av ax,\nnär basunerna vi lyft mot mur och torn:\n“Män av Florens! Kungen kommer! Öppnen strax!”\nÅ, donsellerna på torgen! Deras blod\nsvann ej bort från kind av sorgen för vårt mod,\nnär det svors, att söderåt\nskulle icke på vår stråt\nnågon jungfrudom bli kvar, om Gud var god.\n\nVi ha spel för marsch och dansmusik för sal,\nlitaniors drön och sång om Charlemagne.\nVi ha klinkat klavikord och virginal\ntill en aube och till romanser från Bretagne.\nVi ha rim om Blanchefleur och herr Floris\noch refrängerna om Sieur de la Palice.\nOch där påven fromt höll av\nkurtisanernas konklav,\nsjöngo vi Ballade des Dames du Temps Jadis.\n\n\nTrumma på och blåsa klart och hålla takt\när vår lott ännu, fast buk och kinder svällt.\nVi ge än signal till sadling och givakt,\nfast de herrar dött, vi fordom följt i fält.\nMellan äreportar, lansar eller bloss,\ndär man stiftar fred och dansar eller slåss,\ngå vi än som fordom med\nmed baretten käckt på sned\noch begravningsinstrumenten i vår tross.\n\nGhibellin och guelf och påve och spanjor\nha vi följt, tills deras härlighet försvann.\nMången furste har vi tjänat, tills han for\ni en svart kaross med flordraperat spann.\nNy mundering får oss smycka år från år.\nUtav fallna herrars lycka återstår\nnött livré från någon fest -\nsvart hos Sforza, grönt hos Est\noch hos Borgia rött som påvedotterns hår.\n\nFinns en kvinna kvar, som minns oss i Guienne?\nBlåser våren åter grön i Normandie?\nVi ha aldrig sett de länderna igen.\nVi gå nu mot Rom med Frundsbergs kompani.\nMellan Oriflamme och sabeln är vår gång,\nmed d’Orange och konnetabeln av Bourbon.\nVad längs marschens väg var värt\nge en vink och hålla kärt\nha vi transsubstantierat till en sång.",
     "date_updated": "2015-03-30",
@@ -1881,7 +1870,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 177,
+    "page": 144,
     "name": "Romlalalalala",
     "lyrics": "Här på festen flödar rommen,\nlalalalala lalalala!\nRom till varje nyankommen,\nlalalalala lalalala!\nHöj nu bägarn, eller spannen,\nlalalalalala lalala!\nSjung och skåla sen med grannen,\nlalalalala lalalala!",
     "date_updated": "2015-03-30",
@@ -1892,7 +1881,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 178,
+    "page": 144,
     "name": "Konduktörsvisan",
     "lyrics": "Jag var en stilig konduktör,\njag var lång som en stör.\nJag drack brännvin och så la’ jag mig\ndär tågena kör.\nMen numera är jag kort.\nJag har benena bort\nså nu blir det bara Invalid Port.",
     "date_updated": "2015-03-30",
@@ -1903,7 +1892,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 179,
+    "page": 145,
     "name": "Glöggvisa",
     "lyrics": "Nu ska vi pimpla i oss nåt gött,\naningen syrligt, ganska så sött.\nFärgen är mellan lila och rött,\nvärmer från hår till fötter.\nGlöggglöggglöggglöggglöggglögg\nSolen går ner,\nkan man få mer.\nGlöggglöggglöggglöggglöggglögg\nGe mig ett dussin russin.\n\nVärm under grytan, kyla skall ej\navläsas uti mitt konterfej.\nSkålar jag ej, så skållar jag mig,\nnu ska det hända grejer!\nGlöggglöggglöggglöggglöggglögg\nDetta var tufft,\nta lite luft.\nGlöggglöggglöggglöggglöggglögg\nGe mig en andel mandel.",
     "date_updated": "2015-03-30",
@@ -1914,7 +1903,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 180,
+    "page": 146,
     "name": "Öl av dig",
     "lyrics": "Öl av dig,\njag vill ha öl av dig.\nSkicka hit några kalla pilsner.\nKärlek nej, jag vill ej ha det.\nGifta mig, det får nog va’ det.\nÖl av dig,\njag vill ha öl av dig.\nKärlek nej, inga relationer.\nVill du ha mig\nså säg inte nej\nnär jag ber om öl av dig.",
     "date_updated": "2015-03-30",
@@ -1925,7 +1914,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 181,
+    "page": 146,
     "name": "Öl, öl, öl i glas",
     "lyrics": "Öl, öl, öl i glas eller i butelj.\nSkummande, skummande,\nskummande, skummande.\nTa en klunk och svälj.",
     "date_updated": "2015-03-30",
@@ -1936,7 +1925,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 182,
+    "page": 147,
     "name": "Vem kan häva",
     "lyrics": "Vem kan häva en hela gin?\nVem kan slå sig på tummen?\nVem kan karva i vännen sin\nutan att dra på munnen?\n\nJag kan häva en hela gin!\nJag kan slå mig på tummen!\nMen ej karva i vännen min\nutan att dra på munnen.",
     "date_updated": "2015-03-30",
@@ -1947,7 +1936,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 183,
+    "page": 147,
     "name": "Benedictiner",
     "lyrics": "Benedictiner\nBenedictiner munklikör\n\nKoskenkorva\nKoskenkorva brännevin\n\nPauligs kaffe\nPauligin Rosita-kahvia",
     "date_updated": "2015-03-30",
@@ -1958,7 +1947,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 184,
+    "page": 148,
     "name": "Crambamboli",
     "lyrics": "När Gud en gång den vackra världen skapade\ndå fann Han allting ganska gott.\nHan tyckte dock, att Adam borde\nfå något drickbart på sin lott.\n//: Så satt Han pricken över i\noch skapade crambamboli,\ncram-bim-bam-bamboli, crambamboli! ://\n\nNapoleon, han var en tapper krigare\nsom du, som jag, som mången annan.\nOch vet du vad om honom sades\nvar grunden till hans tapperhet?\n//: Nap - * - poleon med sitt kompani\nhan drack ett glas crambamboli,\ncram-bim-bam-bamboli, crambamboli! ://\n\nVill du som jag hos flickor göra lycka?\nDet kan gå bra, det kan gå galet.\nOch vet; det är ett vågat stycke,\nsom tarvar ganska mycket mod.\n//: Men jag vill hålla ett mot tri\natt hjälpa skall crambamboli,\ncram-bim-bam-bamboli, crambamboli! ://\n\nCrambamboli, ja, det är jordens härlighet\noch världens salighet, förvisso!\nEn härlig dryck för tjocka magar\noch för den magre ganska gott.\n//: All världens split och tyranni\nskall vika för crambamboli,\ncram-bim-bam-bamboli, crambamboli! ://",
     "date_updated": "2015-03-30",
@@ -1969,7 +1958,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 185,
+    "page": 149,
     "name": "Lambo",
     "lyrics": "Sätt nu glaset till din mun\ntjo faderittan lambo!\nOch drick ur, din fylle-fyllehund,\ntjo faderittan lambo!\nSe, hur brännvinet i glaset\nrinner ner i fylleaset!\nLambo hej! Lambo hej! Tjo faderittan lambo!Jag ur glaset druckit har,\n<i>alla:</i>Tjo faderittan lambo!\n<i>solo:</i>Ej en droppe finnes kvar,\n<i>alla:</i>Tjo faderittan lambo!\n<i>solo:</i>Som bevis jag nu vill vända\n\nglaset på dess rätta ända.\n<i>alla:</i>Lambo hej! Lambo hej!\n\nTjo faderittan lambo!\n\nJa, han kunde konsten,\nhan var en riktig fylle-fyllehund.\nLåt oss gå till nästa man\noch se vad han förmår!",
     "date_updated": "2015-03-30",
@@ -1980,7 +1969,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 186,
+    "page": 150,
     "name": "Kaffevisa",
     "lyrics": "Kaffe, kaffe, kaffe, konjak och likör,\nger oss alla här ett mycket gott humör.\nOch förhoppningsvis man ville,\nta ett glas med nån promille\ndricka kaffe, kaffe, konjak och likör.",
     "date_updated": "2015-03-30",
@@ -1991,7 +1980,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 187,
+    "page": 150,
     "name": "Kaffevisa",
     "lyrics": "Det smakar\nså härligt,\ndet smakar så gott.\nJa det här är det bästa som\nvi någonsin fått.\n\nAldrig har vi\nväl smakat\npå något som det.\nDet finns inget som är så gott\nsom café au lait.\n\nAldrig har vi\nväl känt oss\nså här saliga.\nDet finns inget som smakar som\nGevalia.",
     "date_updated": "2015-03-30",
@@ -2002,7 +1991,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 188,
+    "page": 151,
     "name": "Kaffevisa",
     "lyrics": "Här sitter jag en stackare\noch tänker på min lott.\nFör livet är en jämmerdal\noch allt jag ser är grått.\nIbland försvinner chanserna,\noch blir ett minne blott.\nNär man har brått,\när det lätt att gråta om ens tåg har gått.\n\nNär hela skallen dunkar\noch ens tankar stilla står.\nDet finns en kur som funkar,\nta och tag en kaffetår.\nDrick lagom stora klunkar,\nlåt aromen sätta spår.\nI din gom kaffesmaken bygger bo,\nVad den é go’.\nSvarta droppen som är len och ger dig ro.\n\nFörst maler man små bönor\nmedan vattnet kokar opp.\nSen brygger man med omsorg\noch tar fram en kaffekopp.\nNär kaffedoften stiger en åt huvet\nfår man hopp.\nAlla känslorna efter kaffe trår,\nHur man än mår.\nBåde sorg och glädje rymmer kaffetår.",
     "date_updated": "2015-03-30",
@@ -2013,7 +2002,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 189,
+    "page": 154,
     "name": "Punschen kommer",
     "lyrics": "Punschen kommer,\npunschen kommer\nljuv och sval.\nGlasen imma,\nröster stimma\ni vår sal.\nSkål för glada minnen,\nskål för varje vår.\nInga sorger finnes mer när punsch vi får.",
     "date_updated": "2015-03-30",
@@ -2024,7 +2013,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 190,
+    "page": 154,
     "name": "Jag gillar",
     "lyrics": "Det var en gång jag tänkte\n\natt punschen övergiva,\nmen det får inte ske\nså länge jag får leva.\nFör om jag en gång dör,\nså står det på min grav:\n<i>alla:</i>Här vilar en som finska punschen övergav!\n\nJag gillar,\njag gillar punschen.\nJag gillar den som punschen skapat har.\nJag gillar,\njag gillar punschen.\nJag gillar punschen och dess far.",
     "date_updated": "2015-03-30",
@@ -2035,7 +2024,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 191,
+    "page": 155,
     "name": "Scuds punschvisa",
     "lyrics": "Varje gång jag blir sorglig och dyster,\noch vemodet tar tag i mig\nkan en sak blott göra mig yster\noch få mig att ropa: Tjohej!!!\nNej, medicin uti väldiga koppar\nkan inte kurera mig,\nmen så snart jag får ljuva, små,\nGyllene Droppar av Punsch,\ndå blir jag okej.",
     "date_updated": "2015-03-30",
@@ -2046,7 +2035,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 192,
+    "page": 155,
     "name": "Ode till punschen",
     "lyrics": "//: Jag älskar, älskar punschen\noch punschen älskar mig.\nMig plågar ständigt vanvettig\nlängtan efter dig!\nDu smeker min strupe,\nberusar min själ.\nDu värmer mitt inre\noch vill mig bara väl. ://",
     "date_updated": "2015-03-30",
@@ -2057,7 +2046,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 193,
+    "page": 156,
     "name": "Vad ger dig din sisu",
     "lyrics": "Vad ger dig din sisu, vad håller dig varm\nSkro-ro-rom-pom-pej\nJo punschen som upptas i mage och tarm\nFörsvinnande god\nFörsvinnade god\nFår upp humöret och promillen, hej\n\nDu blir en ny människa om du tar en punsch\nSkro-ro-rom-pom-pej\nOch den nya människan vill också ha en punsch\nFörsvinnande god\nFörsvinnande god\nFår upp humöret och promillen, hej!",
     "date_updated": "2015-03-30",
@@ -2068,7 +2057,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 194,
+    "page": 156,
     "name": "Gul punschvisa",
     "lyrics": "Gul lyser solen, gul är grannens* kors.\nGul vajar säden, gul är ängens pors.\nGul är kinesen, gul japan\noch pyttens ägg är gult som fan.\nVår punsch är gul så ta’n,\nvår punsch är gul så ta’n.",
     "date_updated": "2015-03-30",
@@ -2079,7 +2068,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 195,
+    "page": 157,
     "name": "Punsch per vers",
     "lyrics": "Tag en titt på denna man,\nsom Punsch ej druckit har.\nHan rör det ej, ja hela glaset\nupp till bredd står kvar.\nAnletet är o, så trumpet,\nsaknar helt humör.\nDet kan snart ske att hela phesten\nhan för oss förstör!\nMen släng en blick, nu, upp mot Svakar,\nhan som Punsch förtär;\nen min euforisk och så glad\npå ansiktet han bär.\nHan vet nog, hur man skall vara,\ndå det är dags för phest,\noch kan bygga upp god stämning\nför båd’ värd och gäst.",
     "date_updated": "2015-03-30",
@@ -2090,7 +2079,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 196,
+    "page": 157,
     "name": "Putti putti",
     "lyrics": "Putti putti kanna full med punsch,\nkanna full med punsch.\nAvslutar denna baluns,\nför till middag och till lunch\nmåste man ha punsch,\nvill man bli punschig\nmåste man bums ha punsch.\nVi vill ha PUUUUNSCH.",
     "date_updated": "2015-03-30",
@@ -2101,7 +2090,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 197,
+    "page": 158,
     "name": "Tvekan inför punschen",
     "lyrics": "Jag borde nog inte dricka mer\nvarken öl eller vin eller brännevin.\nEn kaffetår blott, men såvitt jag ser\nstår det punsch brevi’n.\n\nTänk vilken underbar färg och odör\n— nej, det blir bara man bråkar och stör.\nMen för att inte min kväll skall bli trist,\nkrävs både slughet och list!\n\nSå jag tror nog att jag tar en\npunsch, kanske två, kanske tre!\nSe’n blir det groggar i baren,\njag klarar säkert av det!\n\nTrots att egentligen jag är rätt knall,\npiggar nog punsch upp mig i alla fall.\nJag kvicknar till med en punsch i min bål.\nNu har jag bestämt mig, SKÅL!",
     "date_updated": "2015-03-30",
@@ -2112,7 +2101,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 198,
+    "page": 158,
     "name": "Punschen gul",
     "lyrics": "Punschen gul uppå bordet står.\nPunschen snällt på dig vänta.\nOm din längtan till punschen går,\nta den utan att flämta.",
     "date_updated": "2015-03-30",
@@ -2123,7 +2112,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 199,
+    "page": 159,
     "name": "Djungelpunsch",
     "lyrics": "Jag gillar alla tiders punsch.\nPunsch till frukost, punsch till lunch,\nen punsch till förrätt, varmrätt och dessert.\nJag gillar punsch för vet du vad,\nrent kaffe gör ju ingen glad.\nSå punsch för fulla muggar vill jag ha.\n\nMed konjak du lockar.\nDen bästa Renault.\nFörlåt om jag chockar\noch tar punsch ändå.\nOch bjuder du på fin likör\nfår du ursäkta om det stör.\nJag väljer hellre Grönstedts Blå,\nen Cederlunds eller Flaggpunsch, å\n— kanske har du ren Platin?\n\nJag gillar punsch.\nGer du mig punsch så är jag din.\nFör evigt din.",
     "date_updated": "2015-03-30",
@@ -2134,7 +2123,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 200,
+    "page": 161,
     "name": "Svensk punschsång",
     "lyrics": "Gott så in i norden.\nBryggt i Svithiods land.\nBryggt så länge saga minnes.\nOch på bordet vilar glaset fullt ännu.\nÄldre dryck det knappast finnes.\n//: Komma troll i drakskepp östanfrån\nför att ge oss annan sprit, sån’t hån!\nMannamod i nöd! Arrak eller död!\nBliva skall vår svenska lösen. ://",
     "date_updated": "2015-03-30",
@@ -2145,7 +2134,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 201,
+    "page": 162,
     "name": "Studiemedelsrondo",
     "lyrics": "Vi dricker punsch till lunch,\nnär vi har fått avin.\nVi lunchar hela dagen\ntills kassan går i sin.\n\nFör mycket punsch till lunch,\nnu mår jag som ett svin.\nHelkass hela dagen\noch munnen en latrin.",
     "date_updated": "2015-03-30",
@@ -2156,7 +2145,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 202,
+    "page": 162,
     "name": "Punschens lov",
     "lyrics": "Punsch, punsch, punsch, massor av\nPunsch, punsch, punsch, massor av\nPunsch, punsch, punsch, massor av\nPunsch, punsch, punsch, punsch\n\nJa, punschen är, och punschen var,\noch punschen skall förbliva\nen lidelse vi alla har,\nsom inget kan fördriva.\nJa, punschen tinar upp, såväl,\nsom svalkar både kropp och själ.\nDen botar begären och lindrar besvären,\nJa, punschen den gör både gott och väl.",
     "date_updated": "2015-03-30",
@@ -2167,7 +2156,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 203,
+    "page": 163,
     "name": "Punschyrsel",
     "lyrics": "//: Punsch, punsch,\npunsch, punsch,\npunsch, punsch,\nAlla sorters ://\n<i>Da capo al fine.damer:\n</i>När supen runnit hädan\noch maten lagts därpå.\nNär kaffet står på bordet\nvad väntar vi då på?\n//: Jo punsch, jo punsch,\njo alla sorters punsch! ://\n\nJa, den föll oss i smaken\nnu ropar vi gutår.\nOch koppen står där naken\noch väntar på påtår\n//: Och punsch, och punsch,\noch ännu mera punsch! ://",
     "date_updated": "2015-03-30",
@@ -2178,7 +2167,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 204,
+    "page": 163,
     "name": "Härlig är punschen",
     "lyrics": "Härlig är punschen,\nhärlig är dess konsistens.\nSkönt är att taga den än en gång.\nGenom att taga\npunschen av daga\ngå vi till paradis med sång!",
     "date_updated": "2015-03-30",
@@ -2189,7 +2178,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 205,
+    "page": 164,
     "name": "Gyllne droppar",
     "lyrics": "Gyllne droppar rinner ner\nlenar strupen vår.\nVärmer kropp och värmer själ,\nädel dryck vi få!\nGyllne droppar finnes kvar\nännu i ditt glas\n(så) höj nu bägaren du har\nty nu skall punschen tas!",
     "date_updated": "2015-03-30",
@@ -2200,7 +2189,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 206,
+    "page": 164,
     "name": "Honeckers punschvisa",
     "lyrics": "Får jag säga sista ordet,\nfesten börjar nu ta slut.\nNu är dags att lämna bordet,\ntimglaset har runnit ut.\nNu skall sista punschen drickas!\nNu skall glaset bliva tomt!\nHär finns inget värt att spara,\ninget värt att minnas, nej.\nDen som blir sist kvar:\nSläck efter sig!",
     "date_updated": "2015-03-30",
@@ -2211,7 +2200,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 207,
+    "page": 165,
     "name": "FestU:s punschvisa",
     "lyrics": "Punschen, punschen rinner genom strupen,\nner i djupen.\nBlandas, konfronteras där med supen\ndär med supen.\nGula droppar stärker våra kroppar,\npunsch, punsch, punsch.",
     "date_updated": "2015-03-30",
@@ -2222,7 +2211,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 208,
+    "page": 165,
     "name": "Flaggpunsch",
     "lyrics": "//: Så starkt och ljuvligt punschextrakt\nsom drickes utav dam och herre.\nEj saknas någonting i denna trakt,\nmen tomglas kunde det va’ färre! ://\n\nÄn flyter punschen stark,\nen vattendelare i politiken.\nOm den är vår tids knark\nberor det mest på punschromantiken.\n//: Men kommer någon våra glas för nära\noch därav gärna smaka vill,\ndå bröder, vid vårt namn, vår gamla ära,\nvi hämta in en flaska till! ://\n\n//: Och stupa vi förrän vi ana\npå kroggolv eller trottoar,\nvi svepa i oss Sveriges fana,\nty Flaggpunsch drickes av envar! ://",
     "date_updated": "2015-03-30",
@@ -2233,7 +2222,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 209,
+    "page": 166,
     "name": "Piratpunsch",
     "lyrics": "Punschen, punschen, det är en dryck för sig\nFrån Indien kom den med svenskt Compani \n— drick punsch, go’ vänner, drick punsch\nCitronsaft, te, arrak och socker finns i \n— drick punsch, go’ vänner, drick punsch\n\nPunschen, punschen, den drycken är för mig\nBland punschvänner drycken har flertalet namn\n— drick punsch, go’ vänner, drick punsch\nTy Roslags förtäras med fördel i hamn \n— drick punsch, go’ vänner, drick punsch\n\nPunschen, punschen, den drycken är för mig\nDrick Caloric, Flaggpunsch och Trosa med stil \n— drick punsch, go’ vänner, drick punsch\nOch vill du ha rom, så ta en Facile\n— drick punsch, go’ vänner, drick punsch\n\nPunschen, punschen, den ropar ut till mig\nNär kaffet är upphällt och ännu är varmt \n— drick punsch, go’ vänner, drick punsch\nTy punschhatarns liv, det är särdeles armt \n— drick punsch, go’ vänner, drick punsch\nDRICK PUNSCH!",
     "date_updated": "2015-03-30",
@@ -2244,7 +2233,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 210,
+    "page": 167,
     "name": "Vädjan till punschen",
     "lyrics": "Kom nu lilla punschen min,\nfölj nu efter supen.\nSnart så skall du åka in\nner igenom strupen,\ntill mitt stora magpalats,\ndär det finns så mycket plats.\nKom nu lilla punschen,\nfölj nu efter supen.",
     "date_updated": "2015-03-30",
@@ -2255,7 +2244,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 211,
+    "page": 167,
     "name": "Sista punschvisan",
     "lyrics": "När punschen småningom är slut\noch vår flaska blivit tom,\ndå vänder vi den upp och ner\ntill dess inget rinner ut.\n\n//: Så slickar vi, så slickar vi\nbåd’ utanpå och i\noch finns det ännu något kvar\nfår det va’ till sämre dar. ://",
     "date_updated": "2015-03-30",
@@ -2266,7 +2255,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 212,
+    "page": 170,
     "name": "Hyvät ystävät",
     "lyrics": "Hyvät ystävät, juhla voi alkaa,\nsankarille me nostamme maljaa.\n//: Tääll’ ei juodakaan kolmosen kaljaa\nmeille viihdyn suo shamppanja vaan. ://\n\nHauska kurkkuun on juomia suistaa,\nsiten teekkariaikoja muistaa.\n//: Yhteinen juomalaulumme luistaa,\njuhlamieli on parhaimmillaan. ://",
     "date_updated": "2015-03-30",
@@ -2277,7 +2266,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 213,
+    "page": 170,
     "name": "On lasimme nää",
     "lyrics": "On lasimme nää\ntäynnä Koskista kimmeltävää.\nKun kurkkua päin\nniitä heitämme laulaen näin:\njos krapulankin\nsaamme jälkeen tän juomingin\nse huomiseen jää!\nSilloin vasta saa särkyä pää!",
     "date_updated": "2015-03-30",
@@ -2288,7 +2277,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 214,
+    "page": 171,
     "name": "Aqua Vera",
     "lyrics": "Lauletaanpas vedestä\njota aina riittää.\nVaikka kuinka joisit sä,\nei se lopu siitä.\nPikku Aqun jano on,\nniin myös Paulin, Anteron.\nAh, kun sentään hyvältä\npaljas vesi maistuu!\n\n//: Och vatten och vatten och vatten är så gott\nså rysligt fasligt billigt, så hälsosamt och vått! ://\n\n1,2,3, VATTEN!\n\nEntäs sitten aamulla,\non olo mitä parhain.\nKannat vettä saavilla\nsängyn viereen varhain.\nAamuyöllä vessassa\ntuumit sormi kurkussa:\nAh, kun sentään hyvältä\npaljas vesi maistuu!\n\n//: Och vatten och vatten och vatten är så gott\nså rysligt fasligt billigt, så hälsosamt och vått! ://\n\n1,2,3, VATTEN!",
     "date_updated": "2015-03-30",
@@ -2299,7 +2288,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 215,
+    "page": 172,
     "name": "Koskenkorva",
     "lyrics": "Nostakaamme malja\nKoskenkorvaa on.\nVäljähtyköön kalja\nmallas kelvoton.\n//: Riemuella suo,\nsiispä veikko juo. ://\n\nKalja voimallansa\nmeitä innostaa.\nKoskenkorvan kanssa\nmielet nostattaa.\n//: Lohdutusta tuo,\nsiispä veikko juo. ://",
     "date_updated": "2015-03-30",
@@ -2310,7 +2299,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 216,
+    "page": 172,
     "name": "Bulevardi",
     "lyrics": "Bulevardi polysteekkiin\nmenotie on suora.\nAina siellä käveleepi\njoku vanha ihminen.\nHäntä pannaan toiseen korvaan,\ntoinen kärsää käyttää.\nTämä uusi telefooni\nkaikki toiveet täyttää!",
     "date_updated": "2015-03-30",
@@ -2321,7 +2310,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 217,
+    "page": 173,
     "name": "Henkilökunta",
     "lyrics": "//: Henkilökunta, henkilökunta, parlevuu! ://\nHenkilökunta, henkilökunta,\nhenkilökunta, henkilökunta,\n//: henkilökunta, parlevuu! ://\n\n//: Lissää viinaa, lissää viinaa, parlevuu! ://\nLissää viinaa, lissää viinaa,\nlissää viinaa, lissää viinaa,\n//: lissää viinaa, parlevuu! ://\n\n//: Kaljakin kelpaa, kaljakin kelpaa, parlevuu! ://\nKaljakin kelpaa, kaljakin kelpaa,\nkaljakin kelpaa, kaljakin kelpaa,\n//: kaljakin kelpaa, parlevuu! ://\n\n//: Phuksit kuolee, phuksit kuolee, parlevuu! ://\nPhuksit kuolee, phuksit kuolee,\nphuksit kuolee, phuksit kuolee,\n//: phuksit kuolee, parlevuu! ://",
     "date_updated": "2015-03-30",
@@ -2332,7 +2321,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 218,
+    "page": 173,
     "name": "Ken ompi fuksi vv",
     "lyrics": "Ken ompi fuksi vv\nylösnouskohon.\nHän lasin käteen ottakoon,\nsen huulillensa nostakoon.\n//: Juo pois, juo pois, juo pois, juo pois.\nJuo Herran tähden pois. ://",
     "date_updated": "2015-03-30",
@@ -2343,7 +2332,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 219,
+    "page": 174,
     "name": "Hurrin kanssa juhliessa",
     "lyrics": "Hurrin kanssa juhliessa aina vaivaa tää,\nlaulut loppuu, ääni pettää, mieltä kismittää.\nNyt on mulla oiva keino, jolla torjun tuon:\nTyön me jaamme – hurri laulaa, minä senkun juon!",
     "date_updated": "2015-03-30",
@@ -2354,7 +2343,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 220,
+    "page": 174,
     "name": "Jerikon muurit",
     "lyrics": "Jerikon muurit kun valloitettiin,\nva-va-va-valloitettiin,\nva-va-va-valloitettiin.\nJerikon muurit kun valloitettiin,\nei naisia tarvittukaan — ollenkaan.\n\nHerroille tarjottiin konjakkia,\nko-ko-ko-konjakkia,\nko-ko-ko-konjakkia.\nHerroille tarjottiin konjakkia,\nja naisille herkullista — cha-cha-cha.",
     "date_updated": "2015-03-30",
@@ -2365,7 +2354,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 221,
+    "page": 175,
     "name": "Eesti napsuviis",
     "lyrics": "//: Joo, Sõber, joo!\nJoo ennast täis kui siga.\nOma viimased kopikad\nkõrtsmikul vii\nja ütle mis elul on viga. ://\n\nMu isa joob, ja ema joob\nja lapsed on pätid ja vargad,\nlapsed on pätid ja vargad,\npätid ja vargad.\n\nJoo, Sõber, ...\n\nItaalias, Hispaanias\nja kaugel, kaugel Hiinas\nseal juuakse viina\nviina ja viina.\n\nJoo, Sõber, ...\n\nMu naine on üks vana nõid\nkes muud ei taha kui raha\nviina ja raha,\nviina ja raha.\n\nJoo, Sõber, ...",
     "date_updated": "2015-03-30",
@@ -2376,7 +2365,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 222,
+    "page": 176,
     "name": "Eino Leinon juomalaulu",
     "lyrics": "Monta päivää juotuaan,\npessimisti tuskissaan,\ntuumi: jo on, jukoliste,\nsaavutettu päätepiste.\nNuoranpätkä kourassaan\nhiipi nurkkaan kuolemaan.\nMutta toiset nähtyään\nyhden poissa pöydästään,\nsydämissä syvä hätä\nalkoi etsiskellä tätä.\nLöytyi veikko nuorastaan,\nvainajana suorastaan.\nMutta:\n<i>alla:\n</i>Saatuansa spriitä,\nvirkistyi hän siitä\nkohottaen lasiaan\nvirkkoi: “Veljet,\n— Asiaan!”",
     "date_updated": "2015-03-30",
@@ -2387,7 +2376,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 223,
+    "page": 176,
     "name": "Raittiuslaulu",
     "lyrics": "Pois ottakaa tää moska,\nse pahasta on, koska\nvoi siitä juopua.",
     "date_updated": "2015-03-30",
@@ -2398,7 +2387,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 224,
+    "page": 177,
     "name": "Meidän tarjoilija",
     "lyrics": "Missäs meidän tarjoilija viipyy,\nsais’ tulla jo, sais’ tulla jo.\nMissäs meidän tarjoilija viipyy,\nsais’ tulla jo, sais’ tulla jo.\nMuuten meillä kurkku tässä kuivuu,\nse kuivuu jo, se kuivuu jo.\nJa huonosti tää juhla silloin päättyy,\nse päättyy jo, se päättyy jo.\n\nTarjoilija, riennä tänne jo!\nTarjoilija, lennä tänne jo!\nNiin että pontikkata tänne tuuvaan\nviinaa juuvaan, joo.\nOi, sä meidän tarjoilija,\nkipaisepa tänne jo!",
     "date_updated": "2015-03-30",
@@ -2409,7 +2398,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 225,
+    "page": 177,
     "name": "Niin minä neitonen sinulle laulan",
     "lyrics": "//: Niin minä, neitonen, sinulle laulan\nkuin omalle kullalleni. ://\n//: Jos olis’ valta niin kuin on mieli,\nniin ottaisin omakseni. ://\n\n//: Kullalleni minä laulelen\nja kellekäs minä muille. ://\n//: En minä laula kallioille\nenkä metsän puille. ://",
     "date_updated": "2015-03-30",
@@ -2420,7 +2409,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 226,
+    "page": 178,
     "name": "Tänään otetaan",
     "lyrics": "//: Tänään otetaan, tänään otetaan,\nhelvetin paljon viinaa. ://\n//: Huomenna on, huomenna on\nhelvetin kova krapula. ://\n\n//: I dag ska vi ta, i dag ska vi ta\nhelvetes mycket brännvin. ://\n//: I morgon ska vi ha, i morgon ska vi ha\nhelvetes kova krapula. ://",
     "date_updated": "2015-03-30",
@@ -2431,7 +2420,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 227,
+    "page": 178,
     "name": "Hei, vahtimestari",
     "lyrics": "//: Hei, vahtimestari!\nTule, täytä lasini,\nvie tyhjät pullot pois! ://\n//: Kyllä enemmänkin juodaan,\njos vain lisää tuodaan\nja laskut maksetaan, jos jaksetaan. ://\n\n//: Hei, vahtimestari!\nTule, täytä lasini,\nvie kuolleet phuksit pois! ://\n//: Ja jos mä kerran kuolen,\nkyll’ kilta pitää huolen,\nett’ pokkamonttuun minut haudataan. ://",
     "date_updated": "2015-03-30",
@@ -2442,7 +2431,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 228,
+    "page": 179,
     "name": "Ko-ko-ko-kosken-ko-ko-ko-korvaa",
     "lyrics": "Ko-ko-ko-kosken-ko-ko-ko-korvaa,\nsiitä aina kunnon rä-kä-kä-kännit saa.\nKo-ko-ko-kosken-ko-ko-ko-korvaa,\nsiitä aina kunnon rä-kä-kä-kännit,\naina kunnon rä-kä-kä-kännit,\naina kunnon rä-kä-kä-kännit saa!",
     "date_updated": "2015-03-30",
@@ -2453,7 +2442,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 229,
+    "page": 179,
     "name": "Hullu kirvesmies",
     "lyrics": "Illalla, kun mielipuoli kirveen saa,\nhän johdattaa mut aitan taa,\nsiellä missä aivokoppa aukeaa\nja verikin on punaisin.\n//: Nauraen lyö hullu niskan taa,\ntunnen sen, jo veri tirskahtaa.\nVaikk’ on taju himmennytkin,\nhullu hakkaa vielä nytkin\nniskantynkää verta pursuvaa. ://",
     "date_updated": "2015-03-30",
@@ -2464,7 +2453,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 230,
+    "page": 180,
     "name": "Kaks’kisälliä",
     "lyrics": "Kaks’ kisälliä kulki\nmaantietä laulellen.\nJa he laulussaan toi julki\nylevän aattehen:\n“Jos kaikki Suomen järvet\nviinaksi muuttuisi,\nniin eikös meidän poikain\nelellä kelpaisi.” — Kyllä vaan!\n//: Kaljaa, kaljaa,\nkal-jal-lal-lal-lal-laa. ://\n\nRannalle Viinajärven\nmajamme rakentais’\nja sen sulolainehilla\nöin päivin soudeltais’.\nJa me ryypättäis’ vain viinaa\nviinassa uitaisiin.\nAh, eikös tätä voisi\nverrata Edeniin — kyllä vaan!\nKaljaa, kaljaa...\n\nJos viimein parannusta\nei saatais’ krapulaan.\nNiin helmaan Viinajärven\nloikattais’ kuolemaan.\nJa me ryypättäis’ vain viinaa\nviinassa uitaisiin.\nAh, eikös tätä voisi\nverrata Edeniin — kyllä vaan!\nKaljaa, kaljaa...",
     "date_updated": "2015-03-30",
@@ -2475,7 +2464,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 231,
+    "page": 181,
     "name": "Koskishumppa",
     "lyrics": "Kos, kos, kos, kos,\nkoskista vaan\njuodaan, jos jaksetaan.\n\nKos, kos, kos, kos,\nkoskista vaan\njuodaan, jos jaksetaan.\n\nKun uusi päivä tuloansa tekee,\nse viepi meiltä pullonsa veke!\n\nKos, kos, kos, kos,\nkoskista vaan\njuodaan, jos jaksetaan.",
     "date_updated": "2015-03-30",
@@ -2486,7 +2475,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 232,
+    "page": 181,
     "name": "Laulu puheille",
     "lyrics": "Hei, juttele sinä vaan,\nkyllä sinut tunnetaan.\nJa vaikka sen valheeksi vannotkin,\nniin kyllä sua uskotaan!",
     "date_updated": "2015-03-30",
@@ -2497,7 +2486,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 233,
+    "page": 182,
     "name": "Hei veikkoset",
     "lyrics": "Hei veikkoset,\neiköhän ryypätä jo,\nettei hukkaan menis’\npikku kohmelo.\nÄlä kainostellen\nkatsele pullohon,\nkun sä tullut olet\nmeidän joukkohon.\nMaljas’ nosta aina\npohjaan saakka juo.\nViini kumman hehkun\nmielehesi tuo,\n//: sillä viini ja laulu\nne yhtehen saa\nkaikki veikot,\njotka juoda haluaa. ://",
     "date_updated": "2015-03-30",
@@ -2508,7 +2497,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 234,
+    "page": 182,
     "name": "Jos eukkosi kieltää",
     "lyrics": "Jos eukkosi kieltää sua juomasta,\nniin juo, niin juo.\nJos kieltää sua viinoja tuomasta,\nniin tuo, niin tuo.\nVaan älä sinä milloinkaan juomasta lakkaa,\nvaan hanki sinä itselles’ parempi akka.\nJa juo ja laula, ja juo ja laula,\nja juo ja laula, ja juo ja laula.\n\n\nTrink, trink, Brüderlein trink,\nlaß doch die Sorgen zu Haus!\nTrink, trink, Brüderlein trink,\nleere dein Glas mit mir aus!\nMeide den Kummer und meide den Schmerz,\ndann ist das Leben ein Scherz,\ndu lieber Augustin.\nKauf dir ein Auto und fahr gegen Baum,\ndann ist das Leben ein Traum!\n\nUpseerit sotia taistelee,\nja juo, ja juo,\nja teltassa viinoja maistelee,\nja juo, ja juo.\nKun taistelun melskeissä pyssyt ne paukkaa,\nniin upseerit välillä pullosta naukkaa,\nJa juo ja laulaa...\n\nTrink, trink...\n\nMaisterit koulussa opettaa,\nja juo, ja juo,\nja illalla tuntinsa lopettaa,\nja juo, ja juo.\nKun päivällä saksaa ja matikkaa jauhaa,\nniin illalla raitilla räyhää ja pauhaa,\nJa juo ja laulaa...\n\nTrink, trink...",
     "date_updated": "2015-03-30",
@@ -2519,7 +2508,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 235,
+    "page": 184,
     "name": "Pas de Quatre",
     "lyrics": "Ravintolasta\nastuin vasta\nhiukan horjahtaen.\nSiellä mä istuin\nmelkein pelkkää\nvettä nautiskellen.\nKatajanmarjabrenkkua\nen juonut hiukkastakaan;\nkas, apteekista saan\nfarmaseutilta fortista.",
     "date_updated": "2015-03-30",
@@ -2530,7 +2519,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 236,
+    "page": 184,
     "name": "Elomme päivät",
     "lyrics": "Elomme päivät epäselvät,\nkohtalo kovan suonut on.\n//: Kun eilen tulin tänään kotia\nja tänään tulen huomenna.\nHUOMENTA! ://\n\nJumalauta täällä sammutaan!\nSiskot, veljet, tulkaa auttamaan!\n//: Me baarikaapin näämme ja sen valtaamme\nja kossupullon huiviin heitämme.\nPERKELE! ://",
     "date_updated": "2015-03-30",
@@ -2541,7 +2530,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 237,
+    "page": 185,
     "name": "Stadin kundit",
     "lyrics": "Kaikki stadin kundit dokaa brenkkuu,\nmuuten olis elämä niin kenkkuu.\nSörkka, Skatta, Kaivari ja Rööperi,\nsiinä kulmat jotka kaikki stadin kundit tsennaa.\n\nPolityyrit siellä tekee kauppansa,\njannut viedään krabbiksessa sairaalaan.\nJuhlat siellä, dokut täällä aina vaan,\nkun ei viina loppuiskaa-aa-aa-aa-aan.",
     "date_updated": "2015-03-30",
@@ -2552,7 +2541,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 238,
+    "page": 185,
     "name": "Unkarin viiniä",
     "lyrics": "Voi, hyvät ystävät, meillä jos ois’\nUnkarin viiniä saavi.\nEikö kun kaks’ sitä kantais’ ja jois’,\npaksusti voitais’ kuin paavi.\nSilloinpa veikkoset huolta ei lain\nsaavissa kieli kun maattaisi vain.\nVoi, hyvät ystävät, meillä jos ois’\nUnkarin viiniä saavi.",
     "date_updated": "2015-03-30",
@@ -2563,7 +2552,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 239,
+    "page": 186,
     "name": "Paavi ja sulttaani",
     "lyrics": "On paavin elo ihanaa,\nhän kaikki anerahat saa.\n//: On viini kallein juomansa\n— Oi, jospa paavi oisin ma. ://\n\nMutt’ ei, ei koskaan maistaa saa\nhän nuoren naisen suudelmaa.\n//: Käy illoin yksin nukkumaan,\n— en paavi olla tahtoiskaan! ://\n\nMutt’ sulttaani hän hummailee\nja haaremissaan elelee.\n//: Keskellä naisten viehkeäin\n— sulttaani oisin mielelläin! ://\n\nMutt’ ei, hän ompi polo mies,\nhänt’ painaa Koraaninsa ies.\n//: Ei maista viinin tippaakaan,\n— en sulttaaniksi tahtoiskaan. ://\n\nEn yksin olla tahtoisi\nmä paavi enkä sulttaani,\n//: mutt’ vuoroin virkaan kumpaankin\nmä mielelläni astuisin. ://\n\nSuo suukko mulle, neitonen\noon sulttaani mä hetkisen.\n//: Hei, veikot, maljat täyttäkää,\nkun paaviks’ muuttuu poika tää! ://",
     "date_updated": "2015-03-30",
@@ -2574,7 +2563,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 240,
+    "page": 187,
     "name": "Veljekset Montgomeryn",
     "lyrics": "Kai muistatte veljekset Montgomeryn:\nhe kaatoivat kahvinsa konjakkihin.\n//: Mutt’ tarjositpas vettä,\nhe huudahtivat että:\n“Se polvihimme menee,\nviekää hemmettihin!” ://\n\nKai muistatte veljekset Montgomeryn:\nhe kaatoivat kahvinsa konjakkihin.\n//: Mutt’ tarjositpas vettä,\nhe huudahtivat että:\n“Se ruostuttaapi kaiken,\nviekää hemmettihin!” ://\n\nDet var ju två bröder i Montgomery:\nDe hällde sitt kaffe uti cognacen sin.\n//: Men bjöd du dem på vatten,\nså sade de: “Fy katten!\nför vatten är ju sådant\nsom man omkommer i!” ://",
     "date_updated": "2015-03-30",
@@ -2585,7 +2574,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 241,
+    "page": 187,
     "name": "Runebergin juomalaulu",
     "lyrics": "Jo lähti pois pakenemaan —\nhyvästi varjoinen.",
     "date_updated": "2015-03-30",
@@ -2596,7 +2585,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 242,
+    "page": 188,
     "name": "Kalmarevisan",
     "lyrics": "//:Uti Kalmare stad\n<i>alla:</i>ja, där finns det ingen kvast ://\nförrän lördagen.\n<i>solo:</i>Hej dick\n<i>alla:</i>Hej dack\n<i>solo:</i>Jag slog i\n<i>alla:</i>och vi drack.\n<i>solo:</i>Hej dickom dickom dack\n<i>alla:</i>Hej dickom dickom dack.\nFör uti Kalmare stad\nja, där finns det ingen kvast\nförrän lördagen.\n\n//:\n<i>solo:</i>När som bonden kommer hem\n<i>alla:</i>kommer bondekvinnan ut ://\nÄr så stor i sin trut.\n\nHej dick...\n\n//:\n<i>solo:</i>Var är pengarna du fått?\n<i>alla:</i>Ja dom har jag supit upp ://\nuppå Kalmare slott.\n\nHej dick...\n\n//:\n<i>solo:</i>Jag skall mäla dig an\n<i>alla:</i>för vår kronbefallningsman ://\nOch du ska få skam.\n\nHej dick...\n\n//:\n<i>solo:</i>Kronbefallningsmannen vår\n<i>alla:</i>satt på krogen igår ://\noch var full som ett får.\n\nHej dick...\n\n//:\n<i>solo:</i>Vad ska bonden ha till mat\n<i>alla:</i>sura sillar och potat. ://\nDet blir sillsallat.\n\nHej dick...",
     "date_updated": "2015-03-30",
@@ -2607,7 +2596,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 243,
+    "page": 192,
     "name": "Columbi gåva till de arma crapulanterna",
     "lyrics": "Morgonstund med smak av döda bävrar,\nödesdiger för vår arma kropp!\nHur vi stretar, hur vi alla vägrar\nså går solen likt förbannat opp!\n//: Snart är dagen här med hemska plågor,\nhuvudvärk och ångest, elände, men\nen sak stillar bukens böljande vågor;\nägglikör, vår frälsare och vän! ://",
     "date_updated": "2015-03-30",
@@ -2618,7 +2607,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 244,
+    "page": 192,
     "name": "Ode till ägget",
     "lyrics": "Columbus var en hedersman,\nkille-ville-vipp-bom-bom.\nPå ägglikörer levde han,\nkille-ville-vipp-bom-bom.\nMen varför drack han inte rom?\nDet skall vi nu berätta om.\nSkrålia, liktoria,\nkille-ville sann historia.\nSkål på er, patrask,\nni som har binnikemask!",
     "date_updated": "2015-03-30",
@@ -2629,7 +2618,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 245,
+    "page": 193,
     "name": "Svanslyftarvisa",
     "lyrics": "Nu har Svakar lyckats med det dära,\nsom så många andra inte gillar.\nNu kan Svakar räknas full av ära\ntill de tuffiga killarna.\n\nNu kan Söderström och Staffans,\nSergej Hagelstam och grev von Klements,\noch så patron Gustavson förstås\nva’ stolta över sin insats här.\n\nStora hornet och så lilla flojten\nhar blitt alla gästers ve och fasa.\nStora hymens alla extra “bompa”\nhar gått genom båd’ märg och ben.\n\nNu kan Söderström ...\n\nHej, hej, Söderström och Staffans...\nSergej Hagelstam och grev von Klements,\noch så patron Cederqvist förstås\nva’ stolta över sin insats här.\nMen värre blir det nästa gång...",
     "date_updated": "2015-03-30",
@@ -2640,7 +2629,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 246,
+    "page": 194,
     "name": "Trink, trink",
     "lyrics": "//: Trink, trink, Brüderlein trink!\nLaß doch die Sorgen zu Haus. ://\n//: Meide den Kummer und meide den Schmerz\ndann ist das Leben ein Scherz. ://\n\n//: Trink, trink . . ://\n//: Liebst du nicht Mädchen\nund trinkst du nicht Bier\ndann wird ein Sportsmann aus dir. ://\n\n//: Trink, trink . . ://\n//: Heirat im Sommer und Scheide im März\ndann ist das Leben ein Scherz. ://\n\n//: Trink, trink . . ://\n//: Kauf dir ein Auto, fahr gegen ein Baum\ndann wird das Leben ein Traum. ://",
     "date_updated": "2015-03-30",
@@ -2651,7 +2640,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 247,
+    "page": 195,
     "name": "Svattas sång",
     "lyrics": "Nån kyss på sin hand får väl knappast en Svatta\nmen hon kan festa som en man.\nHon charmar envar och får alla att skratta\nhon är go’ och grann, och visar klart att kvinnor kan.\nDenna dam är långt från tam\nja, det handlar ju om dig och mig!\nSå låt oss nu skåla för allt vad vi tåla\nSvatta är en toppentjej!",
     "date_updated": "2015-03-30",
@@ -2662,7 +2651,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 248,
+    "page": 196,
     "name": "Vår busschaufför",
     "lyrics": "Vår busschaufför, vår busschaufför\nhan är en man med gott humör.\nOch har han ej ett gott humör\ndå är han ej vår busschaufför,\nVår busschaufför, vår busschaufför\nhan är en man med gott humör.",
     "date_updated": "2015-03-30",
@@ -2673,7 +2662,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 249,
+    "page": 196,
     "name": "Blå bussvisa",
     "lyrics": "Ack, om jag vore chaffis\npå stadens bussar blå;\njag körde mellan Fölisön\noch Skillnadens depå.\nMin morgonhutt jag toge\nvid Mejlans tull, om inte förr\noch småbarn och gamyler\njag klämde i min dörr.\nPschschsch...",
     "date_updated": "2015-03-30",
@@ -2684,7 +2673,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 250,
+    "page": 197,
     "name": "Theodor",
     "lyrics": "Jeg elskede sjøen ifra jeg var ung\nog svømmede om som en sei, faderiorei.\nEn dag da jeg badet min velskapte kropp,\nkun bagenden ragede op, faderiorei.\n//: Folk ropte: “Der svømmer en alligator!”\nSå var de! * * til Theodor. ://",
     "date_updated": "2015-03-30",
@@ -2695,7 +2684,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 251,
+    "page": 197,
     "name": "Vem é de’?",
     "lyrics": "Vem é de’\nvem é de’\nvem é de’ som kommer där?\nJo, skidåkar Anderssonskans kärring,\nskidåkar Anderssonskans kärring.\nHon som bor på Havregatan 16.\nTjo-faderittan,\nkilla mig på träskon,\nhär ska det vara mer!\n//: Jag vill dö, jag vill ej längre leva.\nJag vill dö, i famnen på en mö! ://",
     "date_updated": "2015-03-30",
@@ -2706,7 +2695,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 252,
+    "page": 199,
     "name": "Madrigal",
     "lyrics": "Kom du ljuva hjärtevän!\nSkall jag vänta länge än?\nLängtan mig förbränner, hjärtevän.\nLängtan mig förbränner, hjärtevän.\n\nLiksom rosen skär och ren\nslår du ut i solens sken.\nKom, kom, du min ljuva hjärtevän.\nKom, kom, du min ljuva hjärtevän.",
     "date_updated": "2015-03-30",
@@ -2717,7 +2706,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 253,
+    "page": 201,
     "name": "Island",
     "lyrics": "//: Vilar i vita, skummande vågor.\nStolt som i sagan, sagornas ö. ://\n//: Länge du höll med ödet en holmgång,\nFick dock ej falla, segra du fick! ://\n\nVilar i vita, skummande vågor.\nStolt som i sagan, sagornas ö.\n//: Herre i höjden räck henne handen,\nhåll henne upp på yrande våg! ://",
     "date_updated": "2015-03-30",
@@ -2728,7 +2717,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 254,
+    "page": 201,
     "name": "Det var i vår ungdom",
     "lyrics": "Den saken gjorde han fan så bra,\nen skål uti botten för Svakar vi ta!\n//: Och alla så dricker vi nu Svakar till. ://Och Svakar han säger inte nej därtill,\n\nFör det var i vår ungdom den fagraste vår,\nman drack varandra till och så sade man: Gutår!",
     "date_updated": "2015-03-30",
@@ -2739,7 +2728,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 255,
+    "page": 201,
     "name": "En liten blå förgätmigej",
     "lyrics": "Hur gärna ville jag ej vara\nen liten blå förgätmigej,\nen liten blå förgätmigej.\nDå skulle jag för dig förklara,\nhur innerligt jag älskar dig!",
     "date_updated": "2015-03-30",
@@ -2750,7 +2739,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 256,
+    "page": 202,
     "name": "Nu klinger igjennom den\ngamle stad",
     "lyrics": "Nu klinger igjennom den gamle stad\npå ny en studentersang,\nog alle mann alle i rekke og rad\nsvinger op under begerklang,\nog mens borgerne våkner i køia\nog hører den glade kang-kang,\nsynger alle mann, alle mann, alle mann,\nalle mann, alle mann, alle mann:\n\nStudenter i den gamle stad,\nta vare på byens ry!\nHusk på at jenter, øl og dram\nvar kjempernes meny.\nOg faller i alle mann alle,\nskal det gjalle fra alle mot sky:\nLa’ke byen få ro,\nmen la den få merke\nden er en studenterby!\n\n//: Og øl og dram, og øl og dram ://\n\nI denne gamle staden satt\nså mangen en konge stor,\nog hadde nok av øl fra fat\nog piker ved sitt bord,\nog de laga bøljer i gata\nnår hjem ifra gilde de for,\nog nu sitter de alle mann alle i Valhall\nog traller til oss i kor:\n\nStudenter i den gamle...\n\n//: Og øl og dram, og øl og dram ://\n\n\nPå Elgester var det liv\ni klosteret dag og natt:\nDer hadde de sin kagge\nog der hadde de sin skatt.\nDe herjet i Nonnenes gate\nog rullet og tullet og datt,\nog nu skuer de fra himmelen ned\nog griper sin harpe fatt:\n\nStudenter i den gamle...\n\n//: Og øl og dram, og øl og dram ://\n\nNår vi er vandret hen\nog staden hviler et øyeblikk,\nda kommer våre sønner\nog tar op den gamle skikk.\nEn lek mellem muntre buteljer\nsamt aldri så litt’ erotikk.\nOg så sitter vi i himmelen\nog stemmer op vår replikk:\n\nStudenter i den gamle...",
     "date_updated": "2015-03-30",
@@ -2761,7 +2750,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 257,
+    "page": 204,
     "name": "An intimate friend of the Czar",
     "lyrics": "An intimate friend of the Czar was I,\na personal friend to the great Nikolay.\nWe practically slept in the same double bed;\nit was I at the foot and he at the head.\n\nBut all that seems distant\nand all that seems far...\nfrom those glorious days\nat the palace of the Czar, when\nI was shooting with Raspoutin,\nate farrina with Czarrina,\nblinzes with the princess and the Czar.\nHey, hey, hey!\nWe were sharing tea and herring,\ndipped banana in smetana,\nBorscht and wurst around the samovar.\n\nAs a friend of the Czar, I was all his gracious life,\nbut friendlier still I was with his young wife.\nWe practically slept in the same double bed,\n‘till the Czar kicked me out and slept there instead!\n\nBut all that seems distant...\n\nBUT! — One awful day revolution broke out,\nI failed to see what the fuss was about.\nSo one frosty morning I bid Russia goodbye —\nit was simply a case of Lenin or I.\n\nBut all that seems distant...",
     "date_updated": "2015-03-30",
@@ -2772,7 +2761,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 258,
+    "page": 205,
     "name": "Dunkan och Shinkan",
     "lyrics": "Grev Archibald, den grymme, var den lycklige maken\ntill grevinnan Douglas, som fallit honom i smaken.\nDe voro oskiljaktiga till säte och säng.\nGrevinnan var bildskön, men låghalt och sträng.\n\nTvå bröder bodde i slottets närhet.\nDe voro kända för grymhet och särhet.\nDen ene var Dunkan, den andre var Shinkan.\nFör fylleri de ofta med våld bars till finkan.\n\nMen hu! Nu kommer jag till äktenskapsbrottet:\nDe älskade båda grevinnan på slottet.\nHon hycklade genkärlek, men hjärtat var kallt;\nhon berättade allt för grev’ Archibald.\n\nDärför en dag när de båda bröderna\nsutto med grevinnan i kärleksglöderna -\nen var av dem höll henne i en hand, en fot,\noch smekte henne vänligt, fast hon streta’ emot.\n\nDå instörtade plötsligt den grymme gemålen,\nav vrede darrade hela sidan och bålen.\nHan ryckte Dunkan ur den tafatta ställningen\noch skrek: “Nu är du allt tämligen på upphällningen!”\n\nHan först honom försiktigt i ryggen stack,\nså han skadade sig illa och ropade: “Ack!”\nHan därpå med svärdet hans öron avslog.\nDå ropade Dunkan: “Nu kan det tamfan vara nog!”\n\n\nMen greven stannade icke med slagen,\nty nu var han kommen riktigt i tagen.\nHan genomborrade Dunkan på allt flera ställen\noch slutade inte förrän nio på kvällen.\n\nUnder tiden satt Shinkan i vrede och knot,\ni sin hand höll han grevinnans hand och fot.\nNu blev turen att dödas hans;\nhan blev stucken med allt som fanns tillhands.\n\nGreve Archibald levde, som om han var drucken,\noch Shinkan kände sig alltmera stucken.\nTill slut föll han ner inför sin grevinna.\n“Farväl”, han ropte, “jag nödgas försvinna”.\n\nNu jublade båda de grymma makarna,\nnär bröderna lågo där döda på bakarna.\nDe buro liken till slottets djupaste källare.\nDär skulle de ligga tills de blivit snällare.\n\nMen nu begick greven det gräsliga felet\natt i sin gruvliga högfärd och stelhet\nsteka grevinnan på det grevliga spettet,\nså hon döende ropade: “Är du rakt ifrån vettet?”\n\nNu stod han på höjden av ära och makt\nsen han de trenne under sig lagt.\nMen snart börja’ samvetets röst att vakna,\nhan började Dunkan och Shinkan att sakna.\n\nHan insåg nu, att han bröderna båda\nav grymhet dödat och ej av våda.\nHan därför med kniven stack sig själv\noch kastade liket i djupan älv.\n\nSe, det är sagan om Douglas’ slott,\nom Archibalds kärlek och grymma brott.\nVad under då om det spökar ännu,\ndär hon bodde, den högsinta, låghalta fru.\n\nNär månen står nedan i gråblek glans,\ndå synes av spöken en gräslig dans.\nVarandra i hand och fot de ta\noch skratta ett djävulskt “Haha, haha.”",
     "date_updated": "2015-03-30",
@@ -2783,7 +2772,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 259,
+    "page": 207,
     "name": "Små phuxarna",
     "lyrics": "//: Små phuxarna, små phuxarna, är lustiga att se ://\n//: Ej tophsar, ej tophsar i mössan hava de ://\nDom festar hela natten lång och halva morgonen,\nsen kommer dom och sover ut på föreläsningen",
     "date_updated": "2015-03-30",
@@ -2794,7 +2783,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 260,
+    "page": 208,
     "name": "Trubaduren",
     "lyrics": "Grevinnan hon satt vid ett fönster,\nhon satt i sin jungfrubur\ni nattrock med gyllene mönster,\ndå kom där en glad trubadur.\n“Kom in här och spela en visa!\nMin man är i främmande land.”\n“Din skönhet, min fru, vill jag prisa,\nom du ger mig ditt hjärta och hand.”\n\nGrevinnan hon vred sina händer.\n“Min man, han är borta, min vän.\nHan krigar i främmande länder,\noch kommer väl aldrig igen.\nKom in här och spela en visa,\nså sorgsen är jag i mitt sinn.”\n“Din skönhet, min fru, vill jag prisa”,\nsa’ sångarn och klättrade in.\n\nHan knäppte på lutan och sade:\n“Ack, ge mig ditt hjärta och hand.”\nOch runt omkring livet hon hade\nett rosenrött sidenband.\nDet tog hon och gav trubaduren\natt sätta på lutan sin.\nDå hördes det steg i tamburen,\noch greven själv trädde in.\n\nOch greven han skramla’ med svärdet\noch skratta ett vansinnigt skratt\nhan sade: “Min sköna, hur är det?\nMin nådiga, hur är det fatt?\nVem fan är den där filuren,\nvad gör han vid grevens härd?”\nOch han pekade på trubaduren\nmed sitt långa, blodiga svärd.\n\nGrevinnan, som nyss hade dånat,\nhon sade: “Det är ju en narr,\noch alldeles nyss har han lånat\nett band till sin gamla gitarr.”\n“Det där låter fasen så troligt”,\nsade greven och mönstrade dem.\n“O, Rickard”, sa hon, “så roligt,\nså roligt att du - kommit hem.”\n\n“Å, jaså, förlåt lilla flickan”,\nsa’ greven och strök hennes kind.\nMen trubaduren han gick han\noch hängde sig uppe på vind.\nOch liksom av änglar buren\ntill ett annat och sällare land,\ndär svävade trubaduren\ni ett rosenrött sidenband.",
     "date_updated": "2015-03-30",
@@ -2805,7 +2794,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 261,
+    "page": 210,
     "name": "Kosmonaut Nikolajevs kvalfulla rymdfärd",
     "lyrics": "Mitt namn är Nikolajev, kosmonaut ifrån Sovjet,\noch jag åker runt jorden i min rymdraket,\nmen jag har råkat ut för en olycka stor,\nför jag glömde gå på muggen innan jag for.\n\nJag längtar hem, hem till min planet,\ntill fru och barn, hemma i Sovjet,\nmen mest till ett hus med ett hjärta på dörr.\nHem, hem till min planet!\nJag vill ej vara instängd i raket,\ndär det ej finns nåt hus med ett hjärta på dörr.\n\nMin kapsel är fylld utav fina instrument\nför att mäta kosmisk strålning\noch sånt som inte är känt.\nDär finns nästan allt vad jag behöver av komfort,\nmen en viktig detalj - det har dom glömt bort!\n\nJag längtar hem...\n\nJag lider de allra hemskaste kval,\njag känner mig vissen och sjuklig och skral.\nDet jäser i magen - nu tränger det på,\noch jag undrar hur fasen detta ska gå?\n\nJag längtar hem...\n\nOch jag skall vara uppe i 64 varv,\nså har Hrustjov sagt - fast jag tycker det är larv,\nför det tar flera da’r innan jag kommer ner.\nNej fan vad det värker! JAG STÅR INTE UT MER!\n\nJag längtar hem...\n\nOch sen när jag landat ner på Röda Torget\noch skall hälsas välkommen med parader och ståt,\ndå täcks inte jag stiga ut ur min raket,\nför jag (jo, ni vet nog!) och byxan är våt.\n\nJag längtar hem...",
     "date_updated": "2015-03-30",
@@ -2816,7 +2805,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 262,
+    "page": 211,
     "name": "Tingelingeling",
     "lyrics": "Tingelingeling, nu bussen går ut i vida världen,\nden som femti’ öre har får följa med på färden!\nAllihopa, allihopa, nu löser dom biljetten,\nnu stiger dom på, och bussen den går!",
     "date_updated": "2015-03-30",
@@ -2827,7 +2816,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 263,
+    "page": 212,
     "name": "Vodka ach vodka",
     "lyrics": "Student ja v Maskvjé, jo ja många år sen va,\nja gås i uniformjernas och röda kinder ha.\nAch vodka, ach vodka, galubka majà,\nalla mina rosornas t vodotschka vsjala!\n\nJa skulle schenitsja på den vackra symamsell\nsom älska mej så innerligt varannan lördagkväll.\nAch vodka, ach vodka, galubka majà,\nalla mina krafternas t vodotschka vsjala!\n\nAllt vad jag hade palisjmjestarn stalj bort\noch skicka mig till Pjeterburg med nästa fångtransport.\nAch vodka, ach vodka, galubka majà,\nalla mina sorgernas t vodotschka vsjala!\n\nI en rännsten di la mej, när vi kom till Pjeterburg.\n“Schmakas vattne bra, där får du drickas din lurk!”\nAch vodka, ach vodka, galubka majà,\nnjemnosvhko bara vodotschka och allting vara bra!\n\nSmuts kom i njesan och vatten i min mund,\nen lukta va de, tvi Boshe moj,\nja frös just som en hund.\nAch vodka, ach vodka, galubka majà,\nvarför mina krafternas t vodotschka vsjala!\n\nDå hördes från himmeln en änglastämma, ack:\nЧёрт возьми уж этух проклятых собак*\n\nDe vara Knjas konsuln. Han plockas opp de her\noch sparkas polisernas i Njevan å göras mej till\nsin blagorodies denschtschik å ge åt mej\nkrasivaja uniformernas, å micke, micke\nvodotschka, så ja bliva frisk igen å ingen\nförbaskade proljetarj, som behöva ligga i\nrännstenarnas. I sen ja många många år\nvara hans blagorodies allra trognaste\ndenschtschik å spottas på polisernas\nännu mera som hans blagorodie.\n\nNu ja gammal å tändernas börja lossa\nå magen int riktigt harasjå...\n\n... men ingenting gör de,\nså länge djengi räcker till,\ntill vodotschka och djevotschki och\nen och annan sill.\n\n//: Ach vodka, ach vodka, galubka majà,\npå dina vågor flyter ja till himmelen en da. ://",
     "date_updated": "2015-03-30",
@@ -2838,7 +2827,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 264,
+    "page": 214,
     "name": "Hell and gore",
     "lyrics": "Hell and gore,\nshun gop, Father Allan, lallen lay.\nHell and gore,\nshun gop, Father Allan lay.\nOh, handsome in the Hell and tar,\nhand, Ay Hell are half and four.\nHell and gore,\nShun gop, Father Allan lay!",
     "date_updated": "2015-03-30",
@@ -2849,7 +2838,7 @@
     "date_uploaded": "2015-03-25"
   },
   {
-    "id": 265,
+    "page": 215,
     "name": "The tender bar love song",
     "lyrics": "Får du på käften utav tanten,\när alltid chefen sur och vrång?\nKänns dagen lång, helt utan fjong?\nLyssna då till min sång!\n\nÄr livet kallt och mörkt och dystert,\nsom en djupfrusen fish and chips?\nStramar din slips, surnar din Pripps?\nLyssna då till mitt tips!\n<i>alla:\n</i>Gå till baren med erfaren personal\ndär du tar en,\nbra medicin mot allt\nnär du en maltdryck i dig stjälper\nstrax det hjälper,\noch om du står rycken ta två stycken\nav hälsodrycken.\nPå egen risk kan du få ta tre,\nmen då blir du nog lite sne’.\n\nBilligt, villigt, skall jag hälla upp åtskilligt.\nBilligt, villigt, blir du beskänkt och stänkt.\n\nGå till baren...",
     "date_updated": "2015-03-30",

@@ -24,6 +24,7 @@ exports.seed = knex => (
     .then((bookIds) => {
       return knex.batchInsert('songs', songs.map((song) => ({
         title: song.name,
+        page: song.page,
         lyrics: song.lyrics,
         pre: song.pre,
         post: song.post,
