@@ -12,6 +12,7 @@ exports.up = knex => (
       table.increments('id').primary();
       table.text('title').notNullable().unique();
       table.text('imageUrl');
+      table.text('primaryColor');
     })
     .createTableIfNotExists('songs', (table) => {
       table.increments('id').primary();
